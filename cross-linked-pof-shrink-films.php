@@ -1,0 +1,391 @@
+<?php
+ob_start();
+session_start();
+$page_url = basename(__FILE__);
+?>
+
+
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>Leading Polyolefin (POF) shrink film manufacturer in India
+    </title>
+    <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
+    <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
+" />
+
+    <meta name="keywords"
+        content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <!-- Font Awesome (use only one version to avoid conflicts) -->
+    <!-- Recommended: Font Awesome 6.5.0 -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css\styles.css" media="all">
+    <link rel="stylesheet" href="css/responsives.css" media="all">
+
+    <link rel="stylesheet" href="Newstyle.css" media="all">
+    <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
+
+
+    <?php include 'includes/above-head.php' ?>
+</head>
+
+<body>
+
+    <!-- perload section -->
+    <div id="preloader">
+        <div id="preloader-inner"></div>
+    </div>
+    <!-- header section -->
+    <?php include 'includes/header.php' ?>
+
+    <!-- breadcrumbs -->
+    <section class="mobex-section r-breadcurmbs-2 m-secondary-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="wrap_breadcrumbs_1">
+                        <h1 class="breadcurmbs-head">Cross-Linked POF Shrink Films
+                        </h1>
+                        <ul class="breadcrumbs_content_1 ">
+                            <li><a href="index.php" title="home"> Home </a> /</li>
+                            <li><span>Cross-Linked POF Shrink Films</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class=" bg-light-gray">
+        <div class="container-fluid">
+            <section class="shrink-film-section">
+
+                <!-- Title -->
+                <div class="row px-5">
+                    <div class="col-12 text-start mb-3" data-aos="fade-down">
+                        <h2> Cross-Linked POF Shrink Films</h2>
+                    </div>
+                </div>
+
+                <div class="row align-items-start px-5 ">
+                    <div class="col-12 col-lg-8" data-aos="fade-right">
+                        <p>
+                            Cross-linked Polyolefin (POF) shrink film is an advanced packaging material made by
+                            adding a cross-linking process during manufacturing that makes it a better POF shrink
+                            film. This process creates molecular bonds between polymer chains, making the film
+                            stronger, more puncture-resistant, and suitable for high-speed packaging machines.
+                        </p>
+                        <p>
+                            At <strong>Real Weaven Sales LLP</strong>, we produce a wide range of cross-linked POF
+                            shrink films including:
+                        </p>
+                        <ul class="film-types">
+                            <li></i>POF 12
+                                micron</li>
+                            <li></i>POF 15
+                                micron</li>
+                            <li></i>POF 19
+                                micron</li>
+                            <li></i>POF 25
+                                micron</li>
+                            <li></i>POF 50
+                                micron</li>
+                        </ul>
+
+                        <p>
+                            Each variant is tailored to specific packaging needs, ensuring efficiency, product
+                            protection, and excellent visual appeal.
+                        </p>
+                        <h6>Key Benefits of Cross-Linked POF Shrink Film:</h6>
+                        <ul>
+                            <li><strong>Superior Strength & Durability</strong> – Ideal for irregular-shaped
+                                products.</li>
+                            <li><strong>Excellent Clarity</strong> – Crystal-clear for product visibility.</li>
+                            <li><strong>High-Speed Performance</strong> – Reduced waste in high-speed lines.</li>
+                            <li><strong>Low Shrink Force</strong> – Protects delicate items like food & toys.</li>
+                            <li><strong>Eco-Friendly Options</strong> – Biodegradable and safe.</li>
+                            <li><strong>Printable Surface</strong> – Great for branding and barcoding.</li>
+                        </ul>
+                    </div>
+
+                    <!-- Right: Image -->
+                    <div class="col-12 col-lg-4 image-box mt-4 mt-md-0" data-aos="fade-left">
+                        <img src="images\0.png" alt="Shrink Film Image" />
+                    </div>
+                </div>
+                <div class="row align-items-center gy-4 px-5 mt-4">
+
+                    <div class="col-12 col-md-4" data-aos="fade-left">
+                        <div class="image-boxs">
+                            <img src="images\img16.jpg" alt="POF Shrink Film Use Cases">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-8" data-aos="fade-right">
+                        <div class="industry-box">
+                            <h5>Who Uses Cross-Linked POF Shrink Film?</h5>
+                            <p>Cross-linked POF shrink films are used across various industries:</p>
+                            <div class="  p-4 border-0 industry-card">
+                                <h5 class="mb-3 text-dark fw-bold">Used In Industries:</h5>
+                                <ul class="industry-list p-0 m-0">
+                                    <li>Food & Beverages</li>
+                                    <li>Pharmaceuticals</li>
+                                    <li>Toys</li>
+                                    <li>Electronics</li>
+                                    <li>Stationery</li>
+                                    <li>Cosmetics</li>
+                                    <li>Home Goods</li>
+                                    <li>Retail Packaging</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center gy-4 px-5 mt-5">
+                    <div class="col-12 col-lg-8">
+                        <div class="content-box ps-lg-4">
+                            <h5 class="fw-bold  mb-3">Why Choose Regal Woven Sacks LLP?</h5>
+                            <p><strong>As one of the leading POF shrink film manufacturers in India, Regal Woven Sacks
+                                    LLP ensures:</strong></p>
+                            <ul class="choose-list">
+                                <li>Consistent quality</li>
+                                <li>Competitive pricing</li>
+                                <li>Timely delivery</li>
+                                <li>Customized solutions</li>
+                                <li>Wide range from POF 12 micron to POF 50 micron</li>
+                                <li>POF printed & biodegradable shrink films tailored for modern packaging needs</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <iframe width="450" height="300" src="https://www.youtube.com/embed/yh7aMRj2JVw?si=-s4iKvC5Zjbq0ZIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </section>
+
+            <div class="row px-5">
+                <div class="col-12">
+                    <div class="section-title mt-4">FREQUENTLY ASKED QUESTIONS</div>
+
+                    <div class="accordion" id="faqAccordion">
+                        <!-- Item 1 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <i class="fa-solid fa-box fa-icon"></i>
+                                    Are Non-Cross Linked POF Films Safe For Food Packaging?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes, it is compatible with food-grade, BPA-free, and compliant with
+                                    international food
+                                    safety regulations.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item 2 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <i class="fa-solid fa-cogs fa-icon"></i>
+                                    Can These Films Be Used On Automatic Packaging Machines?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes, these films are compatible with both manual and automatic packaging
+                                    systems.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header " id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <i class="fa-solid fa-leaf fa-icon"></i>
+                                    What are the environmental benefits of using these films?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    These films are recyclable, lightweight, and reduce overall packaging waste,
+                                    making them
+                                    eco-friendly.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <div class="cta-row d-flex flex-column flex-md-row justify-content-around align-items-center py-5 mt-4  w-100 rounded"
+        style=" background-color: #312f92e8 ;">
+        <h4 class="mb-3 mb-md-0 fw-bold text-white  text-center text-md-start ">
+            Curious to explore how our packaging solutions fit your business needs?
+        </h4>
+        <div class=" d-flex justify-content-end ">
+            <button type="button" class="btn btn-enquirys text-end" data-bs-toggle="modal"
+                data-bs-target="#enquiryModal">
+                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
+            </button>
+        </div>
+    </div>
+
+    <style>
+    .fa-circle:before {
+        content: "\f111";
+        color: #223f9a !important;
+    }
+
+    .accordion-button {
+        width: 100%;
+        background-color: #f7f9fc;
+        border: none;
+        border-radius: 10px !important;
+        font-weight: 600;
+        font-size: 1rem;
+        color: #333;
+        padding: 1rem;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+    }
+
+    .accordion-button .fa-icon {
+        transition: transform 0.3s ease;
+        font-size: 1.1rem;
+        color: #004080;
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color: #004080;
+        color: #fff;
+    }
+
+    .accordion-button:not(.collapsed) .fa-icon {
+        transform: rotate(90deg);
+        color: #000;
+    }
+
+    .accordion-body {
+        background-color: #ffffff;
+        padding: 1rem 1.25rem;
+        border-radius: 0 0 10px 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        color: #444;
+    }
+
+    .accordion-item {
+        margin-bottom: 1rem;
+        border: none;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    @media (max-width: 768px) {
+        .accordion-button {
+            font-size: 0.95rem;
+            padding: 0.9rem;
+        }
+    }
+
+    .accordion-items {
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: inset 0 0 8px rgba(39, 1, 229, 0.05) !important;
+        margin-bottom: 15px;
+        border: none !important;
+    }
+
+    .accordion-buttons:focus {
+        border: none !important;
+    }
+
+    .accordion-buttons:focus-visible {
+        border: none !important;
+    }
+
+    .accordion-buttons {
+        border-radius: 12px;
+        font-weight: 600;
+        padding: 15px 20px;
+        border: none !important;
+        background-color: white;
+
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color: #fff;
+        color: #000;
+        box-shadow: none;
+    }
+
+    .accordion-bodys {
+        padding: 0 20px 15px 20px;
+        color: #555;
+        font-size: 0.95rem;
+    }
+    </style>
+    </div>
+    </section>
+
+
+
+    <script>
+    document.getElementById('readMoreBtn').onclick = function() {
+        var moreContent = document.getElementById('moreContent');
+        var readMoreBtn = document.getElementById('readMoreBtn');
+        if (moreContent.style.display === 'none') {
+            moreContent.style.display = 'block';
+            readMoreBtn.textContent = 'Read Less';
+        } else {
+            moreContent.style.display = 'none';
+            readMoreBtn.textContent = 'Read More';
+        }
+    };
+    </script>
+    <!-- AOS Animation JS -->
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+    AOS.init({
+        duration: 800,
+        once: true
+    });
+    </script>
+
+    <!-- footer -->
+    <?php include 'includes/footer.php' ?>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="js/script.js"></script>
+    <script src="js/index.js"></script>
+    <?php include 'includes/above-body.php' ?>
+</body>
+
+
+</html>

@@ -1,0 +1,8 @@
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(includes/above-head.php): Failed to open stream: No such file or directory in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 31
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(): Failed opening 'includes/above-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 31
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 41
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 41
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 433
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 433
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(includes/above-body.php): Failed to open stream: No such file or directory in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 444
+[06-Aug-2024 09:50:08 UTC] PHP Warning:  include(): Failed opening 'includes/above-body.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/matrij9h/public_html/regalwoven.com/images/index.php on line 444
