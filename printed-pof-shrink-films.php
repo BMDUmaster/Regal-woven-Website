@@ -130,7 +130,7 @@ body {
                 <div class="col-lg-8" data-aos="fade-left" data-aos-duration="800">
                     <h5>
                         <!-- <i class="fa-regular fa-print icon-outline me-2 text-primary border border-primary p-2 "></i> -->
-                        <i class="fa-solid fa-thumbs-up zoom-pulse-icon me-2 p-2"></i>
+                        <i class="fa-solid fa-industry zoom-pulse-icon me-2 p-2"></i>
 
 
 
@@ -154,16 +154,6 @@ body {
             <!-- Section 3: Customization Options -->
             <div class="row align-items-center gy-4 px-5 mt-2" data-aos="fade-up" data-aos-duration="800">
                 <div class="col-md-7" data-aos="fade-right" data-aos-duration="800">
-                    <h5 class="fw-bold">Customization Options</h5>
-                    <p>We offer printing on:</p>
-                    <ul class="ps-3 list-unstyled">
-                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Cross-linked POF</li>
-                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Biodegradable POF</li>
-                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Opaque or Transparent POF</li>
-                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Microns from 12 to 50 for your
-                            printed POF page</li>
-                    </ul>
-
                     <h6 class="fw-bold mb-3">Applications of Printed POF Shrink Film Ideal for:</h6>
                     <div class="icon-list">
                         <div class="icon-item" data-aos="fade-up" data-aos-delay="100"><i
@@ -185,6 +175,15 @@ body {
                                 class="fa-solid fa-check-circle icon me-2"></i>Gift
                             Sets & Multipacks</div>
                     </div>
+                    <h5 class="fw-bold">Customization Options</h5>
+                    <p>We offer printing on:</p>
+                    <ul class="ps-3 list-unstyled">
+                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Cross-linked POF</li>
+                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Biodegradable POF</li>
+                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Opaque or Transparent POF</li>
+                        <li><i class="fa-solid fa-circle text-primary me-3"></i>Microns from 12 to 50 for your
+                            printed POF page</li>
+                    </ul>
                 </div>
                 <div class="col-md-5" data-aos="fade-left" data-aos-duration="800">
                     <img src="images/img50.jpg" alt="Printed Roll" class="img-fluid w-100 grayscale-hover" />

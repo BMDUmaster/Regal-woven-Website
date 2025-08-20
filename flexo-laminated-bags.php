@@ -181,8 +181,6 @@ $page_url = basename(__FILE__);
 
             <section class="bg-white">
                 <div class="container">
-                    <h4 class="fw-bolder text-black"> BOPP FLEXO LAMINATED BAGS</h4>
-                    <p class="section-title mt-4 fw-bold f-black" data-aos="fade-up"></p>
                     <div class="content-section">
                         <div class="row align-items-center">
                             <!-- Image Carousel (Left) -->

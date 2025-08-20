@@ -231,16 +231,16 @@ $page_url = basename(__FILE__);
                                     class="fa-solid fa-circle-check check-icon animate"></i>Why
                                 Use Biodegradable POF Shrink Film?</h6>
                             <ul class="bio-benefits-list list-unstyled ps-0 ">
-                                <li><span class="benefit-no">1.</span> Complies with Government Guidelines</li>
-                                <li><span class="benefit-no">2.</span> Eco-Friendly and Safe — Naturally decomposes and
-                                    reduces plastic waste</li>
-                                <li><span class="benefit-no">3.</span> High Clarity and Performance — Despite being
-                                    biodegradable, it maintains seal strength and shrink properties</li>
-                                <li><span class="benefit-no">4.</span> Available in Thin Gauges (12 Micron & Above)</li>
-                                <li><span class="benefit-no">5.</span> Helps reduce material usage and cost</li>
-                                <li><span class="benefit-no">6.</span> Ideal for Automated Machines — Compatible with
-                                    L-sealers, wrappers, and shrink tunnels</li>
-                            </ul>
+                                <li><span class="benefit-no">1.</span><strong>Complies with Government Guidelines</strong> –  Under India's Extended Producer Responsibility (EPR) and Plastic Waste Management Rules, shrink films under 50 microns made from biodegradable material are often exempt with certain restrictions. Which makes them legally and environmentally ideal for packaging companies.</li>
+
+                                <li><span class="benefit-no">2.</span><strong> Eco-Friendly and Safe</strong> –   The film decomposes naturally, making it useful for brands committed to sustainability and reducing plastic waste.</li>
+
+                                <li><span class="benefit-no">3.</span><strong> High Clarity and Performance</strong> –  Even as a biodegradable product, our POF shrink films retain excellent transparency, seal strength, and shrink properties.</li>
+
+                                <li><span class="benefit-no">4.</span><strong>  Available in Thin Gauges (12 Micron & Above)</strong> –  Helps you reduce material usage and cost, while still meeting all your packaging needs efficiently.</li>
+
+                                <li><span class="benefit-no">5.</span><strong> Ideal for Automated Machines</strong> –   Works seamlessly with L-sealers, sleeve wrappers, and shrink tunnels.</li>
+                                </ul>
                         </div>
                     </div>
 

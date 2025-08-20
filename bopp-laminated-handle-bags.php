@@ -179,7 +179,6 @@ $page_url = basename(__FILE__);
 
             <section class="bg-white">
                 <div class="container">
-                    <p class="section-title mt-4" data-aos="fade-up">Bopp Laminated Handle Bags</p>
                     <div class="content-section">
                         <div class="row align-items-center">
                             <div class="col-lg-6 d-flex flex-column" data-aos="fade-right">

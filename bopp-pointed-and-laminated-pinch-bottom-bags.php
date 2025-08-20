@@ -56,13 +56,11 @@ $page_url = basename(__FILE__);
             <div class="row">
                 <div class="col-12">
                     <div class="wrap_breadcrumbs_1">
-                        <h1 class="breadcurmbs-head">Bopp Pointed and
-                            Laminated Pinch Bottom Bags
+                        <h1 class="breadcurmbs-head">BOPP Laminated Pinch Bottom Bags
                         </h1>
                         <ul class="breadcrumbs_content_1 ">
                             <li><a href="index.php" title="home"> Home </a> /</li>
-                            <li><span>Bopp Pointed and
-                            Laminated Pinch Bottom Bags</span></li>
+                            <li><span>BOPP Laminated Pinch Bottom Bags</span></li>
                         </ul>
                     </div>
                 </div>
@@ -77,8 +75,7 @@ $page_url = basename(__FILE__);
                 <div class="col-lg-6" data-aos="fade-right" data-aos-duration="800">
                     <div class="custom-card w-100 d-flex">
                         <div class="">
-                            <h2 class="fw-bold mb-2 display-5 fw-bold">Bopp Pointed and
-                            Laminated Pinch Bottom Bags</h2>
+                            <!-- <h2 class="fw-bold mb-2 display-5 fw-bold">BOPP Laminated Pinch Bottom Bags</h2> -->
                             <!-- <h6 class="text-muted mb-2">Suitable for:</h6> -->
                             <p>
                                 We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
@@ -170,12 +167,10 @@ $page_url = basename(__FILE__);
                     
                         <div class="">   
                             <div>
-                                <h4 class="mb-4" data-aos="fade-up" data-aos-duration="700"><strong> Bopp Pointed and
-                                Laminated Pinch Bottom Bags</strong></h4>
+                                <h4 class="mb-4" data-aos="fade-up" data-aos-duration="700"><strong> BOPP Laminated Pinch Bottom Bags</strong></h4>
                                 <p class="section-title mt-4" data-aos="fade-up" data-aos-duration="600"></p>
-                                <P data-aos="fade-up" data-aos-duration="800">We are of the manufactureres of Pinch Bottom BAgs in
-                                    INdia. A new concept Introduced in indian
-                                    market, Pinch Bottom Bags are made of BOPP laminated PP Woven Fade Material.</P>
+                                <P data-aos="fade-up" data-aos-duration="800">We are of the few manufactureres of Pinch Bottom Bags in
+                                    India. A new concept Introduced in indian market, Pinch Bottom Bags are made of BOPP laminated PP Woven Fade Material.</P>
                             </div>
                             <div>
                                 <div class="d-flex justify-content-center">
@@ -218,18 +213,17 @@ $page_url = basename(__FILE__);
                                         <li>Made from woven PP fabric for tear resistance, strength, and reusability.
                                         </li>
                                         <li><strong>2. Premium Look </strong></li>
-                                        <li>BOPP lamination allows high-quality photographic printing design, ideal for
-                                            branded packaging.</li>
+                                        <li> BOPP lamination allows high-quality photographic printing design , making it ideal for branded packaging.</li>
                                         <li> <strong>3. Moisture & Dust Protection </strong></li>
-                                        <li>Lamination creates a strong barrier against moisture, helping to extend
-                                            shelf life.</li>
+                                        <li> Lamination creates a strong barrier against moisture, helping to extend shelf life.</li>
                                         <li> <strong>4. Pinch Bottom Advantage</strong></li>
-                                        <li>Offers stable sealing that prevents leakage and maintains a neat shape—ideal
-                                            for stacking.</li>
+                                        <li> Offers strong, stable sealing that prevents leakage and maintains a neat, block-like shape—ideal for stacking.</li>
                                         <li><strong> 5. Eco-Friendly & Recyclable </strong></li>
-                                        <li>Customizable in sizes, colors, gussets, and print designs.</li>
-                                        <li><strong>6. Enhanced Shelf Appeal </strong></li>
-                                        <li>The pointed bottom gives a distinctive retail look.</li>
+                                        <li>Reusable and recyclable, making it a sustainable packaging choice.</li>
+                                        <li><strong> 6.Customizable </strong></li>
+                                        <li>Available in many sizes, colors, gusset types, and print designs.</li>
+                                        <li><strong>7. Enhanced Shelf Appeal </strong></li>
+                                        <li>The pointed bottom gives a distinctive look, helping your product stand out in retail environments.</li>
                                     </ul>
                                 </div>
 

@@ -404,6 +404,11 @@ $page_url = basename(__FILE__);
 </div>
 
                                 </div>
+                                <div class="container-fluid p-0">
+    <img src="9.png" alt="" class="img-fluid w-100">
+</div>
+
+
                                 <div class="row align-items-center mt-4">
                                 <!-- Left Side Text -->
                                 <div class="col-lg-8 mb-4 mb-lg-0" data-aos="fade-right">
@@ -497,10 +502,11 @@ $page_url = basename(__FILE__);
                                     </li>
                                 </ul>
                             </div>
+                            
 
                             <!-- Right Side Image -->
                             <div class="col-lg-4 text-center mt-3" data-aos="fade-left">
-                                <img src="images\Polyolefin_Shrink_Film.jpg" class="img-fluid rounded grayscale-hover"
+                                <img src="10.png" class="img-fluid rounded grayscale-hover"
                                     alt="Rotogravure Cylinders">
                             </div>
                         </div>

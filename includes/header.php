@@ -108,15 +108,15 @@
                                                             <li><a href="cross-linked-pof-shrink-films.php"> <i
                                                                         class="fas fa-arrow-right me-2"></i>Cross‑linked
                                                                     POF Shrink films</a></li>
+                                                            <li><a href="opaque-pof-shrink-film.php"><i
+                                                                        class="fas fa-arrow-right me-2"></i>Opeque
+                                                                    Shrink Films - POF </a></li> 
+                                                            <li><a href="biodegradable-pof-shrink-film.php"><i
+                                                                        class="fas fa-arrow-right me-2"></i>Biodegradable
+                                                                    POF Shrink Film </a></li>       
                                                             <li><a href="printed-pof-shrink-films.php"><i
                                                                         class="fas fa-arrow-right me-2"></i>Printed POF
                                                                     Shrink Films </a></li>
-                                                            <li><a href="biodegradable-pof-shrink-film.php"><i
-                                                                        class="fas fa-arrow-right me-2"></i>Biodegradable
-                                                                    POF Shrink Film </a></li>
-                                                            <li><a href="opaque-pof-shrink-film.php"><i
-                                                                        class="fas fa-arrow-right me-2"></i>Opeque
-                                                                    Shrink Films - POF </a></li>
                                                         </ul>
                                                     </div>
                                                 </div>

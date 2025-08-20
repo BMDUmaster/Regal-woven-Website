@@ -108,15 +108,19 @@ $page_url = basename(__FILE__);
                             Each variant is tailored to specific packaging needs, ensuring efficiency, product
                             protection, and excellent visual appeal.
                         </p>
-                        <h6>Key Benefits of Cross-Linked POF Shrink Film:</h6>
+                        <h6><b>Key Benefits of Cross-Linked POF Shrink Film:</b></h6>
                         <ul>
-                            <li><strong>Superior Strength & Durability</strong> – Ideal for irregular-shaped
-                                products.</li>
-                            <li><strong>Excellent Clarity</strong> – Crystal-clear for product visibility.</li>
-                            <li><strong>High-Speed Performance</strong> – Reduced waste in high-speed lines.</li>
-                            <li><strong>Low Shrink Force</strong> – Protects delicate items like food & toys.</li>
-                            <li><strong>Eco-Friendly Options</strong> – Biodegradable and safe.</li>
-                            <li><strong>Printable Surface</strong> – Great for branding and barcoding.</li>
+                            <li><strong>Superior Strength & Durability</strong> – Cross-linking method enhances tear resistance and toughness in it, making it ideal for irregular-shaped products.</li>
+                            
+                            <li><strong>Excellent Clarity</strong> – The film provides crystal-clear packaging that enhances product visibility and shelf appeal.
+</li>
+                            <li><strong>High-Speed Performance</strong> –  Designed for high-speed packaging lines, it offers the best shrink properties with reduced waste.</li>
+                            <li><strong>Low Shrink Force</strong> –  Protects delicate products such as food, Toys, cosmetics, and electronics without causing deformation.
+</li>
+                            <li><strong>Eco-Friendly Options</strong> –  We offer POF biodegradable shrink films which are sustainable and safe for the environment.
+</li>
+                            <li><strong>Printable Surface</strong> –  Available in POF printed variants, providing branding, barcoding, and product information.
+</li>
                         </ul>
                     </div>
 
@@ -164,7 +168,8 @@ $page_url = basename(__FILE__);
                                 <li>Timely delivery</li>
                                 <li>Customized solutions</li>
                                 <li>Wide range from POF 12 micron to POF 50 micron</li>
-                                <li>POF printed & biodegradable shrink films tailored for modern packaging needs</li>
+                                <li> We are also one of the few offering POF printed and POF biodegradable shrink films tailored for modern packaging needs.
+</li>
                             </ul>
                         </div>
                     </div>

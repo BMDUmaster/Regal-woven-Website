@@ -182,7 +182,7 @@ $page_url = basename(__FILE__);
                 <!-- Card 1 -->
                 <div class="col-md-6">
                     <div class="product-card d-flex align-items-start gap-2 mb-5">
-                        <img src="gallery/pp-blog2.png" alt="CrystalForm MB" class="product-image p-3">
+                        <img src="images/home-product-2.png" alt="CrystalForm MB" class="product-image p-3">
                         <div class="pt-5">
                             <!-- <div class="product-subheading">Thermoforming Films</div> -->
                             <div class="product-heading mb-2">BOPP Laminated PP Woven Bags</div>
@@ -207,7 +207,7 @@ $page_url = basename(__FILE__);
                 </div>
                 <div class="col-md-6">
                     <div class="product-card d-flex align-items-start gap-2 mb-5">
-                        <img src="images/img12.jpg" alt="CrystalForm MB" class="product-image p-3">
+                        <img src="images/home-product-1.png" alt="CrystalForm MB" class="product-image p-3">
                         <div class="pt-5">
                             <!-- <div class="product-subheading">Thermoforming Films</div> -->
                             <div class="product-heading mb-2">POF (Polyolefin) Shrink Film</div>
@@ -402,7 +402,7 @@ $page_url = basename(__FILE__);
                                         excellent. The clarity, stretch, and sealing are perfect for our retail
                                         packaging. Highly recommend!”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/img20.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-1.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user">Sahil Yadav</h6>
                                         </div>
@@ -420,7 +420,7 @@ $page_url = basename(__FILE__);
                                         Sturdy, well-laminated, and the print quality
                                         is top-notch. Very reliable supplier.”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/humanimg2.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-2.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user">Ishaan Khatter</h6>
                                         </div>
@@ -438,7 +438,7 @@ $page_url = basename(__FILE__);
                                         No damage, no misprints—just solid,
                                         professional work. Will reorder again soon!”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/img24.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-4.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user"> Deepali Sharma</h6>
                                         </div>
@@ -456,7 +456,7 @@ $page_url = basename(__FILE__);
                                         smoothly on our machines without any issues.
                                         Regal truly delivers professional-grade quality.”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/img25.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-3.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user"> Aryan Shukla</h6>
                                         </div>
@@ -474,7 +474,7 @@ $page_url = basename(__FILE__);
                                         woven bags are tough and visually appealing—
                                         ideal for our brand packaging. Regal knows their job well.”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/humanimg.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-6.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user"> Tarun Kumar</h6>
 
@@ -493,7 +493,7 @@ $page_url = basename(__FILE__);
                                         Their shrink films are strong, clean, and
                                         always delivered on time. Great service and premium product.”</p>
                                     <div class="d-flex gap-2 align-items-center">
-                                        <img class="test-img" src="images/img24.jpg" alt="">
+                                        <img class="test-img" src="images/home-customer-5.png" alt="">
                                         <div>
                                             <h6 class="mb-1 test-user"> Kriti Kumar</h6>
                                         </div>
