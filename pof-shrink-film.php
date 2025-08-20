@@ -254,10 +254,12 @@ body {
                 </div>
             </div>
 
+            
+
 
             <div class="row g-4 px-5 d-flex justify-content-center">
                 <div class="section-title mt-4 col-12" data-aos="fade-up" data-aos-duration="600">Why Us</div>
-
+                    
                 <!-- Card 1 -->
                 <div class="col-12 col-md-5 py-3 col-lg-3" data-aos="fade-up" data-aos-delay="100">
                     <div class="why-card h-100 d-flex flex-column justify-content-between">
@@ -310,6 +312,11 @@ body {
                     </div>
                 </div>
             </div>
+
+            <div class="container text-center mt-5">
+  <img src="images/polyolefin-shrink-film-img (1).png" alt="Shrink Film" class="img-fluid d-block mx-auto" style="width:50%;">
+</div>
+
 
             <div class="container-fluid px-5">
                 <div class="container-fluid">
