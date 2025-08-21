@@ -427,12 +427,13 @@ ul.sub-menu .megamenu-list {
   position: relative;
   background-image: url("imgs/page-header-bg.jpg");
   background-size: cover;
-  background-position: center; */
+  background-position: center;
+  background-color: #00000088;
   /* color: white;
   z-index: 1;
   /* filter: grayscale(100%); */
 }
-section#about{
+/* section#about{
   background: url("../images/newBanner.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -449,7 +450,7 @@ section#contacts{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-}
+} */
 
 .r-breadcurmbs-2::before {
   content: "";
