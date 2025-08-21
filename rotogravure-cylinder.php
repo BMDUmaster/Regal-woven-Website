@@ -405,7 +405,7 @@ $page_url = basename(__FILE__);
 
                                 </div>
                                 <div class="container-fluid p-0">
-    <img src="9.png" alt="" class="img-fluid w-100">
+    <img src="images/9.png" alt="" class="img-fluid w-100">
 </div>
 
 
@@ -506,7 +506,7 @@ $page_url = basename(__FILE__);
 
                             <!-- Right Side Image -->
                             <div class="col-lg-4 text-center mt-3" data-aos="fade-left">
-                                <img src="10.png" class="img-fluid rounded grayscale-hover"
+                                <img src="images/10.png" class="img-fluid rounded grayscale-hover"
                                     alt="Rotogravure Cylinders">
                             </div>
                         </div>
