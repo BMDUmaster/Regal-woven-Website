@@ -9,7 +9,7 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India</title>
+    <title>Biodegradable polyolefin Shrink Film (POF)</title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content="Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns (12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
@@ -322,59 +322,97 @@ $page_url = basename(__FILE__);
 
                     <div class="accordion" id="faqAccordion">
                         <!-- Item 1 -->
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="fa-solid fa-box fa-icon"></i>
-                                    Are Non-Cross Linked POF Films Safe For Food Packaging?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                    international food
-                                    safety regulations.
-                                </div>
-                            </div>
-                        </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingBioOne">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseBioOne" aria-expanded="true" aria-controls="collapseBioOne">
+            <i class="fa-solid fa-seedling fa-icon"></i>
+            What makes Biodegradable POF Shrink Film different from regular POF films?
+        </button>
+    </h2>
+    <div id="collapseBioOne" class="accordion-collapse collapse show" aria-labelledby="headingBioOne"
+        data-bs-parent="#faqAccordionBio">
+        <div class="accordion-body">
+            Biodegradable POF shrink films are formulated with eco-friendly additives 
+            that allow them to decompose faster in composting or landfill conditions, 
+            unlike standard POF films.
+        </div>
+    </div>
+</div>
 
-                        <!-- Item 2 -->
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <i class="fa-solid fa-cogs fa-icon"></i>
-                                    Can These Films Be Used On Automatic Packaging Machines?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, these films are compatible with both manual and automatic packaging
-                                    systems.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 2 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingBioTwo">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseBioTwo" aria-expanded="false" aria-controls="collapseBioTwo">
+            <i class="fa-solid fa-apple-whole fa-icon"></i>
+            Is Biodegradable POF Film Safe for Food Packaging?
+        </button>
+    </h2>
+    <div id="collapseBioTwo" class="accordion-collapse collapse" aria-labelledby="headingBioTwo"
+        data-bs-parent="#faqAccordionBio">
+        <div class="accordion-body">
+            Yes, biodegradable POF films are non-toxic, BPA-free, and meet international 
+            food safety standards, making them safe for direct food contact.
+        </div>
+    </div>
+</div>
 
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <i class="fa-solid fa-leaf fa-icon"></i>
-                                    What are the environmental benefits of using these films?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    These films are recyclable, lightweight, and reduce overall packaging waste,
-                                    making them
-                                    eco-friendly.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 3 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingBioThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseBioThree" aria-expanded="false" aria-controls="collapseBioThree">
+            <i class="fa-solid fa-recycle fa-icon"></i>
+            How long does it take for Biodegradable POF Shrink Film to break down?
+        </button>
+    </h2>
+    <div id="collapseBioThree" class="accordion-collapse collapse" aria-labelledby="headingBioThree"
+        data-bs-parent="#faqAccordionBio">
+        <div class="accordion-body">
+            Depending on disposal conditions, biodegradable POF films can break down 
+            significantly faster than conventional plastics, often within a few years 
+            under composting or landfill environments.
+        </div>
+    </div>
+</div>
+
+<!-- Item 4 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingBioFour">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseBioFour" aria-expanded="false" aria-controls="collapseBioFour">
+            <i class="fa-solid fa-cogs fa-icon"></i>
+            Can Biodegradable POF Films Be Used on Standard Packaging Machines?
+        </button>
+    </h2>
+    <div id="collapseBioFour" class="accordion-collapse collapse" aria-labelledby="headingBioFour"
+        data-bs-parent="#faqAccordionBio">
+        <div class="accordion-body">
+            Yes, biodegradable POF shrink films are designed to be compatible with 
+            existing manual and automatic packaging machines without modifications.
+        </div>
+    </div>
+</div>
+
+<!-- Item 5 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingBioFive">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseBioFive" aria-expanded="false" aria-controls="collapseBioFive">
+            <i class="fa-solid fa-globe fa-icon"></i>
+            What are the environmental benefits of using Biodegradable POF Shrink Film?
+        </button>
+    </h2>
+    <div id="collapseBioFive" class="accordion-collapse collapse" aria-labelledby="headingBioFive"
+        data-bs-parent="#faqAccordionBio">
+        <div class="accordion-body">
+            These films reduce plastic waste, minimize environmental impact, 
+            and support sustainable packaging practices without compromising strength or clarity.
+        </div>
+    </div>
+</div>
+
                     </div>
 
 

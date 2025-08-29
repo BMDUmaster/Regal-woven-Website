@@ -7,11 +7,11 @@ $page_url = basename(__FILE__);
 
 <!doctype html>
 <html lang="en-US">
-
+<!-- Leading Polyolefin (POF) shrink film manufacturer in India -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India</title>
+    <title> Rotogravure Cylinder</title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
@@ -377,35 +377,54 @@ $page_url = basename(__FILE__);
             <section class="bg-white">
                 <div class="container">
                     <div class="content-section">
-                        <h3 class="fw-bold" data-aos="fade-up">Rotogravure Cylinder</h3>
-        <p class="section-title" data-aos="fade-up"></p>
-                        <div class="d-flex justify-content-between align-items-start gap-3">
-    
-    <!-- Text Section -->
-    <div class="w-50">
-        
-        <p data-aos="fade-up" data-aos-delay="100" style="padding:30px 20px 0 0">
-            Establieshed in the year 2001, M/s Regal Woven Sacks LLP. is a flagship company of
-            "Regal Woven", which has emerged as India's pioneer leader in Electro-Mechanical
-            engraving, with substantial market share of the flexible packaging industry of
-            manufactring rotogravure cylinder / printing cylinder. We have in-house designers
-            because design is what sets your product apart from the competition. Our in-house
-            team of creative designers assists us in emphasising the importance of aesthetics
-            in all of our packaging solutions. Rotogravure cylinder or printing cylinder for
-            printing are one of the things that makes packaging more convenient and dynamic.
-            At the moment, we have over 10,000 cylinders at Regal. It's a large number, but we
-            know how to keep them safe. We have a system in place to ensure that our plant is
-            error-free.
+  <h3 class="fw-bold" data-aos="fade-up">Rotogravure Cylinder</h3>
+  <p class="section-title" data-aos="fade-up"></p>
+
+  <div class="container">
+    <div class="row g-4 align-items-center">
+
+      <!-- Left: Text Section -->
+      <div class="col-12 col-lg-6">
+        <p data-aos="fade-up" data-aos-delay="100" class="pt-3 pe-lg-4">
+          Establieshed in the year 2001, M/s Regal Woven Sacks LLP. is a flagship company of
+          "Regal Woven", which has emerged as India's pioneer leader in Electro-Mechanical
+          engraving, with substantial market share of the flexible packaging industry of
+          manufactring rotogravure cylinder / printing cylinder. We have in-house designers
+          because design is what sets your product apart from the competition. Our in-house
+          team of creative designers assists us in emphasising the importance of aesthetics
+          in all of our packaging solutions. Rotogravure cylinder or printing cylinder for
+          printing are one of the things that makes packaging more convenient and dynamic.
+          At the moment, we have over 10,000 cylinders at Regal. It's a large number, but we
+          know how to keep them safe. We have a system in place to ensure that our plant is
+          error-free.
         </p>
+      </div>
+
+      <!-- Right: Video Section -->
+      <div class="col-12 col-lg-6 d-flex justify-content-center">
+        <div class="d-none d-lg-block">
+          <!-- Desktop fixed size -->
+          <iframe width="560" height="315"
+                  src="https://www.youtube.com/embed/S9HTsRoSr50?si=WHmqn5uOmlIi5XEI"
+                  title="YouTube video player"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
+        </div>
+        <div class="ratio ratio-16x9 d-lg-none w-100">
+          <!-- Mobile responsive -->
+          <iframe src="https://www.youtube.com/embed/S9HTsRoSr50?si=WHmqn5uOmlIi5XEI"
+                  title="YouTube video player"
+                  allowfullscreen></iframe>
+        </div>
+      </div>
+
     </div>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/S9HTsRoSr50?si=WHmqn5uOmlIi5XEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+  </div>
 </div>
 
-                                </div>
                                 <div class="container-fluid p-0">
-    <img src="images/9.png" alt="" class="img-fluid w-100">
+    <img src="images/9.png" alt="" class="img-fluid w-100" style="height: 400px">
 </div>
 
 
@@ -633,17 +652,15 @@ $page_url = basename(__FILE__);
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <i class="fa-solid fa-box fa-icon"></i>
-                                        Are Non-Cross Linked POF Films Safe For Food Packaging?
+                                        <i class="fa-solid fa-circle-info fa-icon"></i>
+                                        What is a Rotogravure Cylinder?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                        international
-                                        food
-                                        safety regulations.
+                                        A rotogravure cylinder is a precision-engraved printing cylinder used in high-speed 
+                                        printing to transfer ink directly onto substrates like plastic films, paper, and foil.
                                     </div>
                                 </div>
                             </div>
@@ -653,38 +670,74 @@ $page_url = basename(__FILE__);
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="fa-solid fa-cogs fa-icon"></i>
-                                        Can These Films Be Used On Automatic Packaging Machines?
+                                        <i class="fa-solid fa-print fa-icon"></i>
+                                        What are the advantages of Rotogravure printing cylinders?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, these films are compatible with both manual and automatic packaging
-                                        systems.
+                                        They offer high-quality, consistent printing with excellent ink transfer, 
+                                        long durability, and suitability for very large-volume production runs.
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Item 3 -->
                             <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        <i class="fa-solid fa-leaf fa-icon"></i>
-                                        What are the environmental benefits of using these films?
+                                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <i class="fa-solid fa-cogs fa-icon"></i>
+                                        Can Rotogravure Cylinders be reused?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        These films are recyclable, lightweight, and reduce overall packaging waste,
-                                        making
-                                        them
-                                        eco-friendly.
+                                        Yes, cylinders can be re-chromed and re-engraved for reuse, 
+                                        which reduces cost and extends their service life.
                                     </div>
                                 </div>
                             </div>
+
+                            <!-- Item 4 -->
+                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        <i class="fa-solid fa-recycle fa-icon"></i>
+                                        Are Rotogravure Cylinders Eco-Friendly?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        While the engraving process involves chemicals, modern cylinder manufacturing 
+                                        uses eco-friendly methods, and reusability makes them more sustainable 
+                                        than disposable alternatives.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Item 5 -->
+                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        <i class="fa-solid fa-industry fa-icon"></i>
+                                        Which industries use Rotogravure Cylinders?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        They are widely used in packaging, decorative laminates, wallpaper, 
+                                        and publication printing due to their precision and cost-effectiveness for bulk production.
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>

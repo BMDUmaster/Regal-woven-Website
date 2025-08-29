@@ -340,56 +340,95 @@ $page_url = basename(__FILE__);
 
                     <div class="accordion" id="faqAccordion">
                         <!-- Item 1 -->
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="fa-solid fa-box fa-icon"></i>
-                                    Are Non-Cross Linked POF Films Safe For Food Packaging?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                    international food safety regulations.
-                                </div>
-                            </div>
-                        </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingOneOpaque">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseOneOpaque" aria-expanded="true" aria-controls="collapseOneOpaque">
+            <i class="fa-solid fa-eye-slash fa-icon"></i>
+            Why Choose Opaque POF Shrink Film Over Transparent Films?
+        </button>
+    </h2>
+    <div id="collapseOneOpaque" class="accordion-collapse collapse show" aria-labelledby="headingOneOpaque"
+        data-bs-parent="#faqAccordionOpaque">
+        <div class="accordion-body">
+            Opaque POF shrink films provide enhanced privacy, conceal product details, 
+            and are ideal for products where branding, light protection, or security is essential.
+        </div>
+    </div>
+</div>
 
-                        <!-- Item 2 -->
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <i class="fa-solid fa-cogs fa-icon"></i>
-                                    Can These Films Be Used On Automatic Packaging Machines?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, these films are compatible with both manual and automatic packaging systems.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 2 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwoOpaque">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwoOpaque" aria-expanded="false" aria-controls="collapseTwoOpaque">
+            <i class="fa-solid fa-sun fa-icon"></i>
+            Does Opaque POF Film Protect Against UV Rays?
+        </button>
+    </h2>
+    <div id="collapseTwoOpaque" class="accordion-collapse collapse" aria-labelledby="headingTwoOpaque"
+        data-bs-parent="#faqAccordionOpaque">
+        <div class="accordion-body">
+            Yes, opaque POF films block light and UV rays, helping preserve sensitive items 
+            like cosmetics, food products, and pharmaceuticals.
+        </div>
+    </div>
+</div>
 
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <i class="fa-solid fa-leaf fa-icon"></i>
-                                    What are the environmental benefits of using these films?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    These films are recyclable, lightweight, and reduce overall packaging waste,
-                                    making them eco-friendly.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 3 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingThreeOpaque">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseThreeOpaque" aria-expanded="false" aria-controls="collapseThreeOpaque">
+            <i class="fa-solid fa-boxes-packing fa-icon"></i>
+            What Types of Products Are Best Suited for Opaque POF Films?
+        </button>
+    </h2>
+    <div id="collapseThreeOpaque" class="accordion-collapse collapse" aria-labelledby="headingThreeOpaque"
+        data-bs-parent="#faqAccordionOpaque">
+        <div class="accordion-body">
+            These films are commonly used for gift items, confidential products, medical supplies, 
+            premium packaging, and items requiring tamper resistance.
+        </div>
+    </div>
+</div>
+
+<!-- Item 4 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingFourOpaque">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFourOpaque" aria-expanded="false" aria-controls="collapseFourOpaque">
+            <i class="fa-solid fa-shield fa-icon"></i>
+            Does Opaque POF Shrink Film Improve Product Security?
+        </button>
+    </h2>
+    <div id="collapseFourOpaque" class="accordion-collapse collapse" aria-labelledby="headingFourOpaque"
+        data-bs-parent="#faqAccordionOpaque">
+        <div class="accordion-body">
+            Yes, opaque shrink film conceals the product, reduces theft risk, and enhances 
+            tamper-evidence, ensuring product integrity during storage and transport.
+        </div>
+    </div>
+</div>
+
+<!-- Item 5 -->
+<div class="accordion-item">
+    <h2 class="accordion-header" id="headingFiveOpaque">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFiveOpaque" aria-expanded="false" aria-controls="collapseFiveOpaque">
+            <i class="fa-solid fa-recycle fa-icon"></i>
+            Is Opaque POF Film Eco-Friendly?
+        </button>
+    </h2>
+    <div id="collapseFiveOpaque" class="accordion-collapse collapse" aria-labelledby="headingFiveOpaque"
+        data-bs-parent="#faqAccordionOpaque">
+        <div class="accordion-body">
+            Yes, just like transparent POF films, opaque POF shrink films are recyclable, 
+            non-toxic, and safe for sustainable packaging practices.
+        </div>
+    </div>
+</div>
+
                     </div>
 
 

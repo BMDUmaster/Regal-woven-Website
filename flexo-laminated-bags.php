@@ -7,11 +7,11 @@ $page_url = basename(__FILE__);
 
 <!doctype html>
 <html lang="en-US">
-
+<!--Leading Polyolefin (POF) shrink film manufacturer in India-->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India</title>
+    <title>Flexo Laminnated Bags</title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
@@ -255,20 +255,21 @@ $page_url = basename(__FILE__);
                         <div class="section-title mt-4" data-aos="fade-up">FREQUENTLY ASKED QUESTIONS</div>
 
                         <div class="accordion" id="faqAccordion">
+                          
                             <!-- Item 1 -->
                             <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         <i class="fa-solid fa-box fa-icon"></i>
-                                        Are Non-Cross Linked POF Films Safe For Food Packaging?
+                                        What are Flexo Laminated Bags?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                        international food safety regulations.
+                                        Flexo laminated bags are packaging bags made using flexographic printing and lamination, 
+                                        offering excellent strength, moisture resistance, and high-quality print designs.
                                     </div>
                                 </div>
                             </div>
@@ -278,36 +279,73 @@ $page_url = basename(__FILE__);
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="fa-solid fa-cogs fa-icon"></i>
-                                        Can These Films Be Used On Automatic Packaging Machines?
+                                        <i class="fa-solid fa-print fa-icon"></i>
+                                        Can Flexo Laminated Bags Be Printed With Custom Designs?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        Yes, these films are compatible with both manual and automatic packaging
-                                        systems.
+                                        Yes, they can be printed in multiple colors with vibrant, durable graphics that make them 
+                                        perfect for branding, promotions, and product labeling.
                                     </div>
                                 </div>
                             </div>
 
+                            <!-- Item 3 -->
                             <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        <i class="fa-solid fa-leaf fa-icon"></i>
-                                        What are the environmental benefits of using these films?
+                                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <i class="fa-solid fa-droplet fa-icon"></i>
+                                        Are Flexo Laminated Bags Moisture and Weather Resistant?
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
                                     <div class="accordion-body">
-                                        These films are recyclable, lightweight, and reduce overall packaging waste,
-                                        making them eco-friendly.
+                                        Yes, the lamination layer provides strong resistance against moisture, dust, and light, 
+                                        keeping the contents fresh and well-protected.
                                     </div>
                                 </div>
                             </div>
+
+                            <!-- Item 4 -->
+                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        <i class="fa-solid fa-recycle fa-icon"></i>
+                                        Are Flexo Laminated Bags Environmentally Friendly?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Many flexo laminated bags are recyclable and reusable, making them a better choice over 
+                                        traditional single-use plastic bags.
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Item 5 -->
+                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        <i class="fa-solid fa-industry fa-icon"></i>
+                                        Which Industries Commonly Use Flexo Laminated Bags?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        They are widely used in food packaging, agriculture, chemicals, construction materials, 
+                                        and retail due to their durability and excellent print visibility.
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>

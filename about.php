@@ -8,7 +8,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Regal Woven Sacks LLP- Leading Packaging Solutions Provider</title>
+    <title>About Regal Woven Sacks LLP- Leading Packaging Solutions Provider</title>
     <meta name="title" content="Regal Woven Sacks LLP- Leading Packaging Solutions Provider">
     <meta name="description"
         content="Learn about Regal Woven Sacks, a top provider of high-quality packaging solutions. Discover our expertise in POF shrink film and PP woven bags, and our commitment to excellence in every product." />
@@ -520,85 +520,96 @@
         <div class="container">
            
                 <div class="col-md-12 pb-5">
-                    <div class="accordion" id="faqAccordion">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What types of packaging products does Regal Woven Sacks LLP offer?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Covers your range: POF Shrink Films and various Woven Bags with customization
-                                    options.
-                                </div>
-                            </div>
+                <div class="accordion" id="faqAccordion">
+
+                    <!-- FAQ 1 -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        What are BOPP Laminated PP Woven Bags and their main uses?
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        BOPP Laminated PP Woven Bags are high-strength, durable, and visually appealing bags widely
+                        used for packaging products like rice, flour, sugar, fertilizers, and pet food. The BOPP
+                        lamination ensures vibrant printing, moisture resistance, and long-lasting protection.
                         </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How does Regal ensure the quality and durability of its packaging solutions?
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Highlights use of premium raw materials like RELIANCE/DOW, in-house manufacturing,
-                                    and quality checks.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Is Regal Woven Sacks LLP environmentally sustainable in its operations?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Focuses on your recycling units, zero-waste policy, and biodegradable film
-                                    offerings.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Can you customize packaging based on industry-specific needs?
-
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Allows you to explain your product variants like cross-linked, printed, and pinch
-                                    bottom bags tailored for specific sectors.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    What makes Regal different from other packaging suppliers in the industry?
-                                </button>
-                            </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Let’s you emphasize your full-service in-house process, on-time delivery fleet,
-                                    customer focus, and long-term partnerships.
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
+                    </div>
+
+                    <!-- FAQ 2 -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        What is POF (Polyolefin) Shrink Film used for?
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        POF Shrink Film is a flexible and clear packaging film that tightly wraps products,
+                        enhancing their appearance and protecting them from dust and damage. It is commonly used
+                        for consumer goods, toys, cosmetics, books, electronics, and more.
+                        </div>
+                    </div>
+                    </div>
+
+                    <!-- FAQ 3 -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        What thickness options are available for POF Shrink Film?
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        Regal offers POF Shrink Films in multiple thicknesses such as 12, 15, 19, 25, and 50 microns,
+                        making them suitable for both lightweight and heavy-duty packaging applications.
+                        </div>
+                    </div>
+                    </div>
+
+                    <!-- FAQ 4 -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        Can BOPP Laminated Woven Bags be customized?
+                        </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        Yes, BOPP Laminated Woven Bags can be fully customized in terms of size, color, printing,
+                        and finishing. Options like glossy/matte lamination, transparent windows, and gussets
+                        allow businesses to design packaging tailored to their brand and industry needs.
+                        </div>
+                    </div>
+                    </div>
+
+                    <!-- FAQ 5 -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        Why choose Regal Woven Sacks LLP for packaging solutions?
+                        </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        Regal ensures top-quality packaging with in-house manufacturing, premium raw materials,
+                        strict quality checks, and eco-friendly practices. With options in both BOPP Laminated
+                        Woven Bags and POF Shrink Films, Regal provides durable, customizable, and sustainable
+                        solutions trusted across industries.
+                        </div>
+                    </div>
+                    </div>
+
                 </div>
+                </div>
+
             </div>
         </div>
     </section>

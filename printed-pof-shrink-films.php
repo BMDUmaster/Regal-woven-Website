@@ -10,7 +10,8 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India
+    <title>Printed POF Shrink Films
+
     </title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
@@ -196,58 +197,94 @@ body {
 
                     <div class="accordion" id="faqAccordion">
                         <!-- Item 1 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="fa-solid fa-box fa-icon"></i>
-                                    Are Non-Cross Linked POF Films Safe For Food Packaging?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, it is compatible with food-grade, BPA-free, and compliant with international
-                                    food
-                                    safety regulations.
-                                </div>
-                            </div>
-                        </div>
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
+    <h2 class="accordion-header" id="headingPrintOne">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapsePrintOne" aria-expanded="true" aria-controls="collapsePrintOne">
+            <i class="fa-solid fa-print fa-icon"></i>
+            What are the advantages of using Printed POF Shrink Films?
+        </button>
+    </h2>
+    <div id="collapsePrintOne" class="accordion-collapse collapse show" aria-labelledby="headingPrintOne"
+        data-bs-parent="#faqAccordionPrint">
+        <div class="accordion-body">
+            Printed POF shrink films enhance brand visibility, provide product information directly on the packaging, 
+            and create a premium, attractive appearance.
+        </div>
+    </div>
+</div>
 
-                        <!-- Item 2 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <i class="fa-solid fa-cogs fa-icon"></i>
-                                    Can These Films Be Used On Automatic Packaging Machines?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, these films are compatible with both manual and automatic packaging systems.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 2 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+    <h2 class="accordion-header" id="headingPrintTwo">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapsePrintTwo" aria-expanded="false" aria-controls="collapsePrintTwo">
+            <i class="fa-solid fa-tags fa-icon"></i>
+            Can Printed POF Shrink Films be customized with logos and designs?
+        </button>
+    </h2>
+    <div id="collapsePrintTwo" class="accordion-collapse collapse" aria-labelledby="headingPrintTwo"
+        data-bs-parent="#faqAccordionPrint">
+        <div class="accordion-body">
+            Yes, these films can be custom printed with brand logos, graphics, product details, and promotional messages 
+            to match your marketing requirements.
+        </div>
+    </div>
+</div>
 
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
-                            <h2 class="accordion-header " id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <i class="fa-solid fa-leaf fa-icon"></i>
-                                    What are the environmental benefits of using these films?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    These films are recyclable, lightweight, and reduce overall packaging waste, making
-                                    them
-                                    eco-friendly.
-                                </div>
-                            </div>
-                        </div>
+<!-- Item 3 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+    <h2 class="accordion-header" id="headingPrintThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapsePrintThree" aria-expanded="false" aria-controls="collapsePrintThree">
+            <i class="fa-solid fa-box-open fa-icon"></i>
+            Are Printed POF Films suitable for food packaging?
+        </button>
+    </h2>
+    <div id="collapsePrintThree" class="accordion-collapse collapse" aria-labelledby="headingPrintThree"
+        data-bs-parent="#faqAccordionPrint">
+        <div class="accordion-body">
+            Yes, printed POF films are food-safe, BPA-free, and compliant with international packaging standards, 
+            making them ideal for food and beverage items.
+        </div>
+    </div>
+</div>
+
+<!-- Item 4 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+    <h2 class="accordion-header" id="headingPrintFour">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapsePrintFour" aria-expanded="false" aria-controls="collapsePrintFour">
+            <i class="fa-solid fa-industry fa-icon"></i>
+            Can Printed POF Shrink Films be used on standard packaging machines?
+        </button>
+    </h2>
+    <div id="collapsePrintFour" class="accordion-collapse collapse" aria-labelledby="headingPrintFour"
+        data-bs-parent="#faqAccordionPrint">
+        <div class="accordion-body">
+            Yes, printed POF films are fully compatible with manual, semi-automatic, and automatic shrink wrapping machines.
+        </div>
+    </div>
+</div>
+
+<!-- Item 5 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+    <h2 class="accordion-header" id="headingPrintFive">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapsePrintFive" aria-expanded="false" aria-controls="collapsePrintFive">
+            <i class="fa-solid fa-leaf fa-icon"></i>
+            Are Printed POF Films eco-friendly?
+        </button>
+    </h2>
+    <div id="collapsePrintFive" class="accordion-collapse collapse" aria-labelledby="headingPrintFive"
+        data-bs-parent="#faqAccordionPrint">
+        <div class="accordion-body">
+            Yes, these films are recyclable, lightweight, and reduce the need for additional labels or packaging, 
+            making them an eco-friendly choice.
+        </div>
+    </div>
+</div>
+
                     </div>
                 </div>
             </div>

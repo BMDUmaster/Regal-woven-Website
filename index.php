@@ -67,7 +67,7 @@ $page_url = basename(__FILE__);
                         advanced technology, and timely service trusted by leading businesses.</p>
                     <div class="row w-100 justify-content-center mt-4 gx-5">
                         <div class="col-6 col-md-5">
-                            <a href="https://bmdublog.com/regal-woven-website/contact.php" 
+                            <a href="/regal-woven-website/contact.php" 
                             class="btn btn-custom-white py-2 fs-6">
                             Connect With us <i class="fa-solid fa-arrow-right ms-2"></i>
                             </a>
@@ -179,57 +179,70 @@ $page_url = basename(__FILE__);
             </div>
             <div class="row g-4">
 
-                <!-- Card 1 -->
-                <div class="col-md-6">
-                    <div class="product-card d-flex align-items-start gap-2 mb-5">
-                        <img src="images/home-product-2.png" alt="CrystalForm MB" class="product-image p-3">
-                        <div class="pt-5">
-                            <!-- <div class="product-subheading">Thermoforming Films</div> -->
-                            <div class="product-heading mb-2">BOPP Laminated PP Woven Bags</div>
-                            <p class="product-description">
+  <!-- Card 1 -->
+  <div class="col-md-6">
+    <div class="product-card d-flex gap-3 mb-5 h-100 p-3 shadow-sm rounded">
 
-                                We are committed to using high-quality materials to manufacture BOPP laminated PP woven
-                                bags that meet industry requirements and regulations. Our bags are known for their
-                                perfect finish, long-lasting durability, and superior quality, making them a popular
-                                choice for a wide range of applications. We are supported by state-of-the-art
-                                infrastructure, fully equipped with the latest machines and equipment. This advanced
-                                setup allows us to maintain precision and consistency in our manufacturing processes,
-                                ensuring that every bag we produce meets the stringent quality requirements of our
-                                clients.
+      <!-- Image side -->
+      <div class="w-50 d-flex ">
+        <img src="images/blog.jpg" alt="BOPP Laminated Bags"
+             class="img-fluid w-100"
+             style="object-fit: cover; height: 320px; border-radius: 8px;">
+      </div>
 
-                            </p>
-                        </div>
-                        <!--Manav Changes-->
-                        <!-- <div class="hover-more">
-                            <i class="fas fa-arrow-right"></i> Know More
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="product-card d-flex align-items-start gap-2 mb-5">
-                        <img src="images/home-product-1.png" alt="CrystalForm MB" class="product-image p-3">
-                        <div class="pt-5">
-                            <!-- <div class="product-subheading">Thermoforming Films</div> -->
-                            <div class="product-heading mb-2">POF (Polyolefin) Shrink Film</div>
-                            <p class="product-description">
-                                In the packaging industry, there are various types of shrink films available, one of
-                                which is POF (polyolefin) shrink film. This material is known for its ability to tightly
-                                shrink around products, enhancing their appearance and protecting them from dirt. POF
-                                shrink film is extremely flexible, durable, and clear. It can be ordered in sizes
-                                ranging from 3 inches to 50 inches, making it suitable for packaging a wide range of
-                                products including consumer electronics, toys, cosmetics, and more. POF shrink film is
-                                available in different thicknesses which are: 12 microns, 15 microns. 19 microns, 25
-                                microns and 50 microns.
+      <!-- Content side -->
+      <div class="w-50 d-flex flex-column">
+        <div class="product-heading mb-2 fw-bold">BOPP Laminated PP Woven Bags</div>
+       <div class="overflow-auto" style="max-height: 250px; padding-right: 5px; <!-- scrollbar-width: none --> ">  
+          <p class="product-description mb-0">
+            We are committed to using high-quality materials to manufacture BOPP laminated PP woven
+            bags that meet industry requirements and regulations. Our bags are known for their
+            perfect finish, long-lasting durability, and superior quality, making them a popular
+            choice for a wide range of applications. We are supported by state-of-the-art
+            infrastructure, fully equipped with the latest machines and equipment. This advanced
+            setup allows us to maintain precision and consistency in our manufacturing processes,
+            ensuring that every bag we produce meets the stringent quality requirements of our
+            clients.
+          </p>
+        </div>
+      </div>
 
-                            </p>
-                        </div>
-                        <!--Manav Change-->
-                        <!-- <div class="hover-more">
-                            <i class="fas fa-arrow-right"></i> Know More
-                        </div> -->
-                    </div>
-                </div>
-            </div>
+    </div>
+  </div>
+
+  <!-- Card 2 -->
+  <div class="col-md-6">
+    <div class="product-card d-flex gap-3 mb-5 h-100 p-3 shadow-sm rounded">
+
+      <!-- Image side -->
+      <div class="w-50 d-flex">
+        <img src="images/img12.jpg" alt="POF Shrink Film"
+             class="img-fluid w-100"
+             style="object-fit: cover; height: 320px; border-radius: 8px;">
+      </div>
+
+      <!-- Content side -->
+      <div class="w-50 d-flex flex-column">
+        <div class="product-heading mb-2 fw-bold">POF (Polyolefin) Shrink Film</div>
+        <div class="overflow-auto" style="max-height: 250px; padding-right: 5px;">
+          <p class="product-description mb-0">
+            In the packaging industry, there are various types of shrink films available, one of
+            which is POF (polyolefin) shrink film. This material is known for its ability to tightly
+            shrink around products, enhancing their appearance and protecting them from dirt. POF
+            shrink film is extremely flexible, durable, and clear. It can be ordered in sizes
+            ranging from 3 inches to 50 inches, making it suitable for packaging a wide range of
+            products including consumer electronics, toys, cosmetics, and more. POF shrink film is
+            available in different thicknesses which are: 12 microns, 15 microns, 19 microns, 25
+            microns and 50 microns.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
         </div>
     </section>
 

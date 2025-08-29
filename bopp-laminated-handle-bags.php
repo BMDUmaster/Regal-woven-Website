@@ -10,7 +10,7 @@ $page_url = basename(__FILE__);
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India</title>
+    <title>BOPP Laminated Handle Bags</title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
@@ -391,62 +391,96 @@ $page_url = basename(__FILE__);
 
                         <div class="accordion" id="faqAccordion">
                             <!-- Item 1 -->
-                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
-                                <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <i class="fa-solid fa-box fa-icon"></i>
-                                        Are Non-Cross Linked POF Films Safe For Food Packaging?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                        international
-                                        food
-                                        safety regulations.
-                                    </div>
-                                </div>
-                            </div>
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
+    <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <i class="fa-solid fa-box fa-icon"></i>
+            Are BOPP Laminated Handle Bags Suitable for Food and Retail Packaging?
+        </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show"
+        aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+            Yes, BOPP laminated handle bags are safe, durable, and designed for both food-grade 
+            packaging and retail use, ensuring protection and an attractive look.
+        </div>
+    </div>
+</div>
 
-                            <!-- Item 2 -->
-                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
-                                <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <i class="fa-solid fa-cogs fa-icon"></i>
-                                        Can These Films Be Used On Automatic Packaging Machines?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                    data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        Yes, these films are compatible with both manual and automatic packaging
-                                        systems.
-                                    </div>
-                                </div>
-                            </div>
+<!-- Item 2 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+    <h2 class="accordion-header" id="headingTwo">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            <i class="fa-solid fa-cogs fa-icon"></i>
+            Can BOPP Laminated Handle Bags Be Customized With Printing and Designs?
+        </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+            Absolutely, they support multicolor high-resolution printing, making them ideal for 
+            branding, promotions, and customized retail packaging.
+        </div>
+    </div>
+</div>
 
-                            <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
-                                <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        <i class="fa-solid fa-leaf fa-icon"></i>
-                                        What are the environmental benefits of using these films?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-                                    <div class="accordion-body">
-                                        These films are recyclable, lightweight, and reduce overall packaging waste,
-                                        making
-                                        them
-                                        eco-friendly.
-                                    </div>
-                                </div>
-                            </div>
+<!-- Item 3 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+    <h2 class="accordion-header" id="headingThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseThree" aria-expanded="false"
+            aria-controls="collapseThree">
+            <i class="fa-solid fa-hand-holding fa-icon"></i>
+            What Are the Advantages of Handles in BOPP Laminated Bags?
+        </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse"
+        aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+            The strong, reinforced handles make them convenient for carrying heavier items, enhancing 
+            user experience and reusability compared to regular packaging bags.
+        </div>
+    </div>
+</div>
+
+<!-- Item 4 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+    <h2 class="accordion-header" id="headingFour">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+            <i class="fa-solid fa-recycle fa-icon"></i>
+            Are BOPP Laminated Handle Bags Eco-Friendly and Recyclable?
+        </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+            Yes, these bags are recyclable, reusable, and more sustainable compared to single-use 
+            plastic bags, making them an eco-friendly packaging option.
+        </div>
+    </div>
+</div>
+
+<!-- Item 5 -->
+<div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+    <h2 class="accordion-header" id="headingFive">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+            <i class="fa-solid fa-industry fa-icon"></i>
+            Which Industries Commonly Use BOPP Laminated Handle Bags?
+        </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+            They are widely used in retail stores, supermarkets, fashion boutiques, promotional 
+            events, and the food industry due to their strength, looks, and branding ability.
+        </div>
+    </div>
+</div>
+
                         </div>
                     </div>
                 </div>

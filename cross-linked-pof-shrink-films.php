@@ -10,7 +10,7 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Leading Polyolefin (POF) shrink film manufacturer in India
+    <title>Cross-Linked POF Shrink Films
     </title>
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
@@ -189,16 +189,15 @@ $page_url = basename(__FILE__);
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="fa-solid fa-box fa-icon"></i>
-                                    Are Non-Cross Linked POF Films Safe For Food Packaging?
+                                    <i class="fa-solid fa-shield-halved fa-icon"></i>
+                                    Are Cross-Linked POF Shrink Films Stronger Than Regular POF Films?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Yes, it is compatible with food-grade, BPA-free, and compliant with
-                                    international food
-                                    safety regulations.
+                                    Yes, cross-linked POF films are stronger and more durable than standard POF films. 
+                                    They provide higher puncture resistance and better seal strength for heavy or sharp products.
                                 </div>
                             </div>
                         </div>
@@ -208,36 +207,73 @@ $page_url = basename(__FILE__);
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <i class="fa-solid fa-cogs fa-icon"></i>
-                                    Can These Films Be Used On Automatic Packaging Machines?
+                                    <i class="fa-solid fa-temperature-high fa-icon"></i>
+                                    Can Cross-Linked POF Films Withstand High Temperatures?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Yes, these films are compatible with both manual and automatic packaging
-                                    systems.
+                                    Yes, these films maintain clarity and shrink performance under higher shrink tunnel 
+                                    temperatures, making them ideal for high-speed packaging lines.
                                 </div>
                             </div>
                         </div>
 
+                        <!-- Item 3 -->
                         <div class="accordion-item">
-                            <h2 class="accordion-header " id="headingThree">
+                            <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <i class="fa-solid fa-leaf fa-icon"></i>
-                                    What are the environmental benefits of using these films?
+                                    <i class="fa-solid fa-boxes-stacked fa-icon"></i>
+                                    What Types of Products Benefit Most from Cross-Linked POF Films?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    These films are recyclable, lightweight, and reduce overall packaging waste,
-                                    making them
-                                    eco-friendly.
+                                    They are best suited for heavy, multi-packed, or irregularly shaped items such as 
+                                    bottled goods, toys, books, electronics, and sharp-edged products.
                                 </div>
                             </div>
                         </div>
+
+                        <!-- Item 4 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <i class="fa-solid fa-eye fa-icon"></i>
+                                    Do Cross-Linked POF Films Maintain High Clarity After Shrinking?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes, despite their extra strength, cross-linked POF films retain excellent gloss and 
+                                    transparency, ensuring premium product presentation.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item 5 -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    <i class="fa-solid fa-recycle fa-icon"></i>
+                                    Are Cross-Linked POF Shrink Films Eco-Friendly?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Yes, they are recyclable, non-toxic, and free from harmful plasticizers, 
+                                    making them a sustainable packaging solution compared to PVC shrink films.
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
 
 
