@@ -164,7 +164,7 @@ $page_url = basename(__FILE__);
     </section>
     <!-- third section  -->
     <section>
-        <div class="container-fluid my-5 px-5">
+        <div class="container-fluid my-5 px-md-5">
             <div class="text-center mb-5 pt-5">
                 <h2 class="test-h2">Our <span> Products </span></h2>
                 <p class="text-center"> We specialize in manufacturing high-quality POF (Polyolefin) Shrink Film and
@@ -184,14 +184,14 @@ $page_url = basename(__FILE__);
     <div class="product-card d-flex gap-3 mb-5 h-100 p-3 shadow-sm rounded">
 
       <!-- Image side -->
-      <div class="w-50 d-flex ">
+      <div class="w-md-50 w-100 d-flex ">
         <img src="images/blog.jpg" alt="BOPP Laminated Bags"
              class="img-fluid w-100"
              style="object-fit: cover; height: 320px; border-radius: 8px;">
       </div>
 
       <!-- Content side -->
-      <div class="w-50 d-flex flex-column">
+      <div class="w-md-50 w-100 d-flex flex-column">
         <div class="product-heading mb-2 fw-bold">BOPP Laminated PP Woven Bags</div>
        <div class="overflow-auto" style="max-height: 250px; padding-right: 5px; <!-- scrollbar-width: none --> ">  
           <p class="product-description mb-0">
@@ -215,14 +215,14 @@ $page_url = basename(__FILE__);
     <div class="product-card d-flex gap-3 mb-5 h-100 p-3 shadow-sm rounded">
 
       <!-- Image side -->
-      <div class="w-50 d-flex">
+      <div class="w-md-50 w-100 d-flex">
         <img src="images/img12.jpg" alt="POF Shrink Film"
              class="img-fluid w-100"
              style="object-fit: cover; height: 320px; border-radius: 8px;">
       </div>
 
       <!-- Content side -->
-      <div class="w-50 d-flex flex-column">
+      <div class="w-md-50 w-100 d-flex flex-column">
         <div class="product-heading mb-2 fw-bold">POF (Polyolefin) Shrink Film</div>
         <div class="overflow-auto" style="max-height: 250px; padding-right: 5px;">
           <p class="product-description mb-0">

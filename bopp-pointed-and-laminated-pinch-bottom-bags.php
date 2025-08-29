@@ -69,7 +69,7 @@ $page_url = basename(__FILE__);
     </section>
 
     <section class="pt-5 bg-light-gray">
-        <div class="container">
+        <div class="container p-0">
             <div class="row g-4 ">
                 <!-- Left Column -->
                 <div class="col-lg-6" data-aos="fade-right" data-aos-duration="800">
@@ -163,7 +163,7 @@ $page_url = basename(__FILE__);
                 </div>
             </div>
             <section class=" bg-white ">
-                <div class="container">
+                <div class="container p-0">
                     
                         <div class="">   
                             <div>
@@ -323,101 +323,101 @@ $page_url = basename(__FILE__);
                         QUESTIONS</div>
 
                     <div class="accordion" id="faqAccordion" data-aos="fade-up" data-aos-duration="700">
+                        
                         <!-- Item 1 -->
-                        <!-- Item 1 -->
-<div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
-  <h2 class="accordion-header" id="headingOne">
-    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-      data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-      <i class="fa-solid fa-box fa-icon"></i>
-      What are BOPP Laminated Pinch Bottom Bags used for?
-    </button>
-  </h2>
-  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-    data-bs-parent="#faqAccordion">
-    <div class="accordion-body">
-      These bags are widely used in industries like flour, rice, sugar, pet food, fertilizers, and
-      chemicals. The pinch bottom closure makes them leak-proof, easy to stack, and ideal for retail
-      as well as bulk packaging.
-    </div>
-  </div>
-</div>
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <i class="fa-solid fa-box fa-icon"></i>
+                        What are BOPP Laminated Pinch Bottom Bags used for?
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                        data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        These bags are widely used in industries like flour, rice, sugar, pet food, fertilizers, and
+                        chemicals. The pinch bottom closure makes them leak-proof, easy to stack, and ideal for retail
+                        as well as bulk packaging.
+                        </div>
+                    </div>
+                    </div>
 
-<!-- Item 2 -->
-<div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
-  <h2 class="accordion-header" id="headingTwo">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-      data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-      <i class="fa-solid fa-cogs fa-icon"></i>
-      What makes the Pinch Bottom design special?
-    </button>
-  </h2>
-  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-    data-bs-parent="#faqAccordion">
-    <div class="accordion-body">
-      The pinch bottom design ensures strong sealing, prevents leakage, and provides a neat
-      block-shaped finish. This makes the bags easier to handle, transport, and display while
-      maintaining product freshness and safety.
-    </div>
-  </div>
-</div>
+                        <!-- Item 2 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <i class="fa-solid fa-cogs fa-icon"></i>
+                            What makes the Pinch Bottom design special?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            The pinch bottom design ensures strong sealing, prevents leakage, and provides a neat
+                            block-shaped finish. This makes the bags easier to handle, transport, and display while
+                            maintaining product freshness and safety.
+                            </div>
+                        </div>
+                        </div>
 
-<!-- Item 3 -->
-<div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
-  <h2 class="accordion-header" id="headingThree">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-      data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-      <i class="fa-solid fa-leaf fa-icon"></i>
-      Are BOPP Pinch Bottom Bags eco-friendly?
-    </button>
-  </h2>
-  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-    data-bs-parent="#faqAccordion">
-    <div class="accordion-body">
-      Yes, these bags are recyclable and manufactured using eco-conscious processes. Their durability
-      and reusability also reduce packaging waste, making them a sustainable alternative to
-      traditional packaging.
-    </div>
-  </div>
-</div>
+                        <!-- Item 3 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <i class="fa-solid fa-leaf fa-icon"></i>
+                            Are BOPP Pinch Bottom Bags eco-friendly?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Yes, these bags are recyclable and manufactured using eco-conscious processes. Their durability
+                            and reusability also reduce packaging waste, making them a sustainable alternative to
+                            traditional packaging.
+                            </div>
+                        </div>
+                        </div>
 
-<!-- Item 4 -->
-<div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
-  <h2 class="accordion-header" id="headingFour">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-      data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-      <i class="fa-solid fa-paint-brush fa-icon"></i>
-      Can these bags be customized for branding?
-    </button>
-  </h2>
-  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-    data-bs-parent="#faqAccordion">
-    <div class="accordion-body">
-      Yes, BOPP Pinch Bottom Bags can be customized with high-quality multi-color printing, glossy or
-      matte finishes, transparent windows, and different sizes. This makes them perfect for strong
-      brand visibility in competitive markets.
-    </div>
-  </div>
-</div>
+                        <!-- Item 4 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                        <h2 class="accordion-header" id="headingFour">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            <i class="fa-solid fa-paint-brush fa-icon"></i>
+                            Can these bags be customized for branding?
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Yes, BOPP Pinch Bottom Bags can be customized with high-quality multi-color printing, glossy or
+                            matte finishes, transparent windows, and different sizes. This makes them perfect for strong
+                            brand visibility in competitive markets.
+                            </div>
+                        </div>
+                        </div>
 
-<!-- Item 5 -->
-<div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
-  <h2 class="accordion-header" id="headingFive">
-    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-      data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-      <i class="fa-solid fa-industry fa-icon"></i>
-      Why choose Regal Woven Sacks LLP for Pinch Bottom Bags?
-    </button>
-  </h2>
-  <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-    data-bs-parent="#faqAccordion">
-    <div class="accordion-body">
-      Regal offers advanced in-house manufacturing, premium raw materials, strict quality checks,
-      and state-of-the-art printing technology. Our BOPP Pinch Bottom Bags are durable, attractive,
-      and tailored to meet international packaging standards.
-    </div>
-  </div>
-</div>
+                        <!-- Item 5 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            <i class="fa-solid fa-industry fa-icon"></i>
+                            Why choose Regal Woven Sacks LLP for Pinch Bottom Bags?
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Regal offers advanced in-house manufacturing, premium raw materials, strict quality checks,
+                            and state-of-the-art printing technology. Our BOPP Pinch Bottom Bags are durable, attractive,
+                            and tailored to meet international packaging standards.
+                            </div>
+                        </div>
+                        </div>
 
                     </div>
                 </div>

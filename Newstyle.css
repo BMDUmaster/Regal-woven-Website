@@ -1654,7 +1654,7 @@
   text-transform: uppercase;
   color: #6c757d;
   border-bottom: 2px solid #2c2c2c;
-  padding-bottom: 6px;
+  padding: 0 0 6px 10px;
   margin-bottom: 20px;
 }
 
@@ -1782,7 +1782,7 @@
 }
 
 .tab-content {
-  padding: 20px;
+  padding-left: 20px;
   background-color: #fff;
   /* min-height: 400px; */
   height: 100%;
@@ -1811,9 +1811,12 @@ ul.benefit-list li {
 
 .specialization-container {
   /* max-width: 800px; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
   font-size: 14px;
   /* margin: 20px auto; */
-  padding: 30px;
+  /* padding: 30px; */
   /* background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
 }
@@ -1857,11 +1860,13 @@ ul.benefit-list li {
 .spec-name {
   font-weight: bold;
   width: 220px;
-  flex-shrink: 0;
+  flex: 1 1 40%; /* name takes 40% on big screens */
   color: #333;
 }
 .spec-value {
-  flex-grow: 1;
+    flex: 1 1 55%; /* value takes 55% */
+  word-break: break-word;  /* break long words */
+  white-space: normal;  
   color: #555;
 }
 /* Minimal custom CSS */
@@ -1913,6 +1918,11 @@ ul.benefit-list li {
 }
 
 .spec-item {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* allows values to break into new line on small screens */
+  padding: 8px 0;
+  border-bottom: 1px dashed #ccc;
   padding: 12px 15px;
   position: relative;
   padding-left: 25px;
