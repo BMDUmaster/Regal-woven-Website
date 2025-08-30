@@ -157,7 +157,7 @@ $page_url = basename(__FILE__);
                     </div>
                 </div>
                 <div class="row align-items-center gy-4 px-5 mt-5">
-                    <div class="col-12 col-lg-8">
+                    <div class="col-12 ">
                         <div class="content-box ps-lg-4">
                             <h5 class="fw-bold  mb-3">Why Choose Regal Woven Sacks LLP?</h5>
                             <p><strong>As one of the leading POF shrink film manufacturers in India, Regal Woven Sacks
@@ -172,9 +172,6 @@ $page_url = basename(__FILE__);
 </li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-12 col-lg-4">
-                        <iframe width="450" height="300" src="https://www.youtube.com/embed/yh7aMRj2JVw?si=-s4iKvC5Zjbq0ZIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
             </section>

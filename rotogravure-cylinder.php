@@ -384,7 +384,7 @@ $page_url = basename(__FILE__);
     <div class="row g-4 align-items-center">
 
       <!-- Left: Text Section -->
-      <div class="col-12 col-lg-6">
+      <div class="col-12 col-lg-12">
         <p data-aos="fade-up" data-aos-delay="100" class="pt-3 pe-lg-4">
           Establieshed in the year 2001, M/s Regal Woven Sacks LLP. is a flagship company of
           "Regal Woven", which has emerged as India's pioneer leader in Electro-Mechanical
@@ -400,24 +400,7 @@ $page_url = basename(__FILE__);
         </p>
       </div>
 
-      <!-- Right: Video Section -->
-      <div class="col-12 col-lg-6 d-flex justify-content-center">
-        <div class="d-none d-lg-block">
-          <!-- Desktop fixed size -->
-          <iframe width="560" height="315"
-                  src="https://www.youtube.com/embed/S9HTsRoSr50?si=WHmqn5uOmlIi5XEI"
-                  title="YouTube video player"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen></iframe>
-        </div>
-        <div class="ratio ratio-16x9 d-lg-none w-100">
-          <!-- Mobile responsive -->
-          <iframe src="https://www.youtube.com/embed/S9HTsRoSr50?si=WHmqn5uOmlIi5XEI"
-                  title="YouTube video player"
-                  allowfullscreen></iframe>
-        </div>
-      </div>
+   
 
     </div>
   </div>

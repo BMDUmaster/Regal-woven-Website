@@ -302,7 +302,7 @@ $page_url = basename(__FILE__);
                 </div>
 
                 <div class="row align-items-center gy-4 px-5 mt-5">
-                    <div class="col-12 col-lg-7" data-aos="fade-right" data-aos-delay="200">
+                    <div class="col-12" data-aos="fade-right" data-aos-delay="200">
                         <div class="content-box">
                             <h5 class="fw-bold mb-3">Who Uses Opaque POF Shrink Film?</h5>
                             <p>Our opaque shrink films are trusted across industries such as:</p>
@@ -323,12 +323,6 @@ $page_url = basename(__FILE__);
                                     <strong>FMCG & Personal Care</strong> (to block UV exposure)
                                 </li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-5" data-aos="fade-left" data-aos-delay="300">
-                        <div class="video-container rounded shadow">
-                           <iframe width="560" height="315" src="https://www.youtube.com/embed/R7arF12f59E?si=T8frKcVPeRHS8okF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>pseek
-
                         </div>
                     </div>
                 </div>
