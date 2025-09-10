@@ -185,7 +185,7 @@ $page_url = basename(__FILE__);
 
       <!-- Image side -->
       <div class="w-md-50 w-100 d-flex ">
-        <img src="images/blog.jpg" alt="BOPP Laminated Bags"
+        <img src="images/boppIndexImage.png" alt="BOPP Laminated Bags"
              class="img-fluid w-100"
              style="object-fit: cover; height: 320px; border-radius: 8px;">
       </div>
@@ -590,7 +590,7 @@ $page_url = basename(__FILE__);
                         </div>
                         <div>
                             <h2 class="test-h2">
-                                Stories, insights, and tips straight from <span> our community </span>
+                               Stay Informed with Industry Trends, Innovations, and <span> Packaging Solutions </span>
                             </h2>
                         </div>
                     </div>
@@ -598,9 +598,7 @@ $page_url = basename(__FILE__);
                 <div class="col-md-6">
                     <div class="d-flex flex-column justify-content-center h-blog">
                         <div>
-                            <p class="blog-p">Stay updated with the latest trends, innovations, and expert insights
-                                in the
-                                manufacturing and industrial sectors</p>
+                            <p class="blog-p">Explore expert insights, sustainable practices, and product innovations from our community. Stay ahead in the manufacturing and packaging sectors with the latest updates on eco-friendly materials, durable packaging solutions, and customizable options that meet modern industry needs.</p>
                             <div class="d-flex justify-content-start">
                                 <!-- <button class="btn btn-custom-red  know-more-btn">
                                     learn more <i class="fa-solid fa-arrow-right ms-2 icon-rotate"></i>

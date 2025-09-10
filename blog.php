@@ -165,11 +165,11 @@
     </section>
 
     <!-- footer -->
+    <script src="js/index.js"></script>
+    <script src="js/script.js"></script>
     <?php include 'includes/footer.php' ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/index.js"></script>
 
     <?php include 'includes/above-body.php' ?>
     <style>

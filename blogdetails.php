@@ -436,6 +436,9 @@
       </style>
 
     <!-- footer -->
+     <script src="js/index.js"></script>
+     <script src="js/script.js"></script>
+    <?php include 'includes/above-body.php' ?>
     <?php include 'includes/footer.php' ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- js library including -->
@@ -447,8 +450,7 @@
     <script src="js/light-box.js"></script>
     <script src="js/jquery.countTo.js"></script>
     <script src="js/progressbar.min.js"></script> -->
-    <script src="js/script.js"></script>
-    <?php include 'includes/above-body.php' ?>
+    
     <style>
     .views h4 {
         font-size: 20px;

@@ -407,14 +407,14 @@ $page_url = basename(__FILE__);
 </div>
 
                                 <div class="container-fluid p-0">
-    <img src="images/9.png" alt="" class="img-fluid w-100" style="height: 400px">
+    <img src="images/Manav.png" alt="" class="img-fluid w-100" style="height: 400px">
 </div>
 
 
                                 <div class="row align-items-center mt-4">
                                 <!-- Left Side Text -->
                                 <div class="col-lg-8 mb-4 mb-lg-0" data-aos="fade-right">
-                                <h3 class="fw-bold">A Global Leader in Rotogravure Cylinders Manufacturer in India</h3>
+                                <h3 class="fw-bold">A Global Leader in Rotogravure Cylinders <a href="">Manufacturer in India</a></h3>
                                 <p data-aos="fade-up" data-aos-delay="100">Singla Engravures LLP is one of the reliable and trustworthy rotogravure cylinders manufacturer in India. With proven track records of more than a decade, we manufacture and supply top-notch cylinders for flexible packaging, vinyl flooring and wallpaper printing. True to our focus on quality and creativity, we have an end-to.
                                 Providing Innovative Cylinder Solutions for the Future.</p>
                                 <p data-aos="fade-up" data-aos-delay="150"><strong>1.High-Quality Materials: </strong>

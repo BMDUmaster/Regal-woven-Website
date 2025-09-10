@@ -215,20 +215,18 @@
                             </p>
                             <ul class="list-unstyled mt-4">
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-gear colorchange me-2"></i> Delivering high-quality,
-                                    performance-driven packaging. solutions
+                                    <i class="fa-solid fa-gear colorchange me-2"></i>Delivering high-quality, performance-driven packaging solutions.
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-gear colorchange me-2"></i> AdvServing the evolving needs of
-                                    diverse industries.
+                                    <i class="fa-solid fa-gear colorchange me-2"></i> Serving the evolving needs of diverse industries.
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-gear colorchange me-2"></i> Trusted by India’s leading brands
-                                    since 2007.
+                                    <i class="fa-solid fa-gear colorchange me-2"></i> Trusted by India’s leading brands since 2007.
+
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-gear colorchange me-2"></i> Known for consistent quality,
-                                    innovation, and service excellence.
+                                    <i class="fa-solid fa-gear colorchange me-2"></i> Known for consistent quality, innovation, and service excellence.
+
                                 </li>
                             </ul>
                         </div>
@@ -265,20 +263,19 @@
                             </p>
                             <ul class="list-unstyled mt-4">
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> DriDeliver world-class,
-                                    innovative, and sustainable packaging solution.
+                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> <b>Deliver</b> world-class, innovative, and sustainable packaging solutions.
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> EnablEmpower industries with
-                                    premium POF Shrink Films and Woven Bags.
+                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> <b>Enable</b> industries with premium POF Shrink Films and Woven Bags.
+
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> BuildUphold the highest
-                                    standards of quality, performance, and responsibility.
+                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> <b>Uphold</b> the highest standards of quality, performance, and responsibility.
+
                                 </li>
                                 <li class="mb-3">
-                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> BuildUpFoster long-term
-                                    partnerships through technology and continuous improvement.
+                                    <i class="fa-solid fa-lightbulb colorchange me-2"></i> <b>Foster</b> long-term partnerships through technology and continuous improvement.
+
                                 </li>
                             </ul>
                         </div>
@@ -309,7 +306,7 @@
                                     materials. This commitment guarantees superior performance, durability, and
                                     consistency.
                                 </li>
-                                <li class="mb-3">
+                                <!-- <li class="mb-3">
                                     <b><i class="fa-solid fa-diamond colorchange me-2"></i> Commitment to
                                         Sustainability</b> <br>
                                     2. Commitment to Sustainability
@@ -318,7 +315,7 @@
                                     ensuring all waste is repurposed responsibly. Our zero-waste approach not only
                                     supports a cleaner environment but also promotes better public health
                                     outcomes.
-                                </li>
+                                </li> -->
                                 <li class="mb-3">
                                     <b><i class="fa-solid fa-diamond colorchange me-2"></i> In-House Manufacturing
                                         Excellence</b> <br>
