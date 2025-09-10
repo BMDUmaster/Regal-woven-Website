@@ -266,7 +266,7 @@ $page_url = basename(__FILE__);
                     </div>
                 </div>
                 <div class="col-md-5 textline">
-                    <small class="fs-6 small-p">
+                    <small class="fs-5 small-p">
                         At Regal Woven Sacks LLP, we ensure secure, attractive, and retail-ready packaging—from
                         production to delivery—designed to protect product integrity while enhancing visual appeal and
                         meeting industry standards.

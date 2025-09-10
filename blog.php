@@ -68,9 +68,9 @@
             <div class="row g-4">
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-1.jpg" alt="Blog 1" class="blog-image">
+                        <img src="images/eco-friendly-regal-woven.webp" alt="Blog 1" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1 ">
-                            <h5 class="fw-bold mb-4">Sustainable Practices Reducing Waste in Industrial Production</h5>
+                            <h5 class="fw-bold mb-4">Eco-Friendly POF Shrink Film – Sustainable Packaging</h5>
                             <div class="mt-auto mb-3">
                                 <a href="blogdetails.php">
                                     <button class="btn read-btn">
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6 col-md-4">
+                <!-- <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
                         <img src="images\post-2.jpg" alt="Blog 2" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1">
@@ -110,10 +110,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
-            <div class="row g-4 mt-5">
+            <!-- <div class="row g-4 mt-5">
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
                         <img src="images\post-4.jpg" alt="Blog 4" class="blog-image">
@@ -159,7 +159,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         </div>
     </section>
