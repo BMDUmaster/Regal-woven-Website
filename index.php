@@ -68,7 +68,7 @@ $page_url = basename(__FILE__);
                     <div class="row w-100 justify-content-center mt-4 gx-5">
                         <div class="col-6 col-md-5">
                             <a href="/regal-woven-website/contact.php" 
-                            class="btn btn-custom-white py-2 fs-6">
+                            class="btn btn-custom-white py-2 fs-5">
                             Connect With us <i class="fa-solid fa-arrow-right ms-2"></i>
                             </a>
 
@@ -137,7 +137,7 @@ $page_url = basename(__FILE__);
 
                                     </ul>
                                     <a href="/regal-woven-website/about.php" 
-                                    class="btn btn-custom-red py-2 mt-4 fs-6">
+                                    class="btn btn-custom-red py-2 mt-4 fs-5">
                                     About us <i class="fa-solid fa-arrow-right ms-2"></i>
                                     </a>
 

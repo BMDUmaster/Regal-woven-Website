@@ -72,7 +72,7 @@
                         <div class="blog-body  d-flex flex-column flex-grow-1 ">
                             <h5 class="fw-bold mb-4">Eco-Friendly POF Shrink Film – Sustainable Packaging</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails.php">``
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>

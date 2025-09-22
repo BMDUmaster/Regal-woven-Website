@@ -41,6 +41,55 @@
     <link rel="stylesheet" href="Newstyle.css" media="all">
     <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
 
+    <style>
+    /* Responsive Fixes */
+    @media (max-width: 991.98px) {
+        .main-section {
+            padding: 2rem 1.5rem !important;
+        }
+
+        .feature-card {
+            text-align: center;
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        .main-section {
+            padding: 2rem 1rem !important;
+        }
+
+        .right-image {
+            height: 300px;
+        }
+
+        h1.display-5 {
+            font-size: 1.8rem;
+        }
+
+        .feature-card {
+            padding: 15px;
+        }
+
+        .feature-icon {
+            font-size: 22px;
+        }
+    }
+
+    @media (max-width: 575.98px) {
+        h1.display-5 {
+            font-size: 1.5rem;
+        }
+
+        .main-section {
+            padding: 1.5rem 1rem !important;
+        }
+
+        .right-image {
+            height: 250px;
+        }
+    }
+</style>
+
     <?php include 'includes/above-head.php' ?>
 
 <body>
@@ -202,7 +251,7 @@
                 <!-- Mission Tab -->
                 <div class="tab-pane fade show active" id="mission" role="tabpanel">
                     <div class="row align-items-center">
-                        <div class="col-md-7 px-5">
+                        <div class="col-md-7 ">
                             <p class="text-muted fs-6">
                                 At Regal Woven Sacks LLP, we specialize in delivering high-quality,
                                 performance-driven
@@ -243,7 +292,7 @@
                 <!-- Vision Tab -->
                 <div class="tab-pane fade" id="vision" role="tabpanel">
                     <div class="row align-items-center">
-                        <div class="col-md-7 px-5">
+                        <div class="col-md-7 ">
                             <p class="text-muted fs-6">
                                 At Regal Woven Sacks LLP, our mission is to deliver world-class packaging
                                 solutions
@@ -290,7 +339,7 @@
                 <!-- Value Tab -->
                 <div class="tab-pane fade" id="value" role="tabpanel">
                     <div class="row align-items-center">
-                        <div class="col-md-7 px-5">
+                        <div class="col-md-7">
                             <p class="text-muted fs-6">
                                 At Regal Woven Sacks LLP, we take pride in being more than just a packaging supplier —
                                 we are a trusted partner in your product’s journey. Here’s what sets
@@ -435,7 +484,7 @@
 
                         <!-- Bottom Text -->
                         <div class="mt-4 free-quote">
-                            <p class="mb-0 text-light">Let’s make something great work together.
+                            <p class="mb-0 ">Let’s make something great work together.
                                 <a href="contact.php">Get Free Quote</a>
                             </p>
                         </div>
@@ -446,54 +495,7 @@
                     </div>
             </div>
     </section>
-    <style>
-    /* Responsive Fixes */
-    @media (max-width: 991.98px) {
-        .main-section {
-            padding: 2rem 1.5rem !important;
-        }
 
-        .feature-card {
-            text-align: center;
-        }
-    }
-
-    @media (max-width: 767.98px) {
-        .main-section {
-            padding: 2rem 1rem !important;
-        }
-
-        .right-image {
-            height: 300px;
-        }
-
-        h1.display-5 {
-            font-size: 1.8rem;
-        }
-
-        .feature-card {
-            padding: 15px;
-        }
-
-        .feature-icon {
-            font-size: 22px;
-        }
-    }
-
-    @media (max-width: 575.98px) {
-        h1.display-5 {
-            font-size: 1.5rem;
-        }
-
-        .main-section {
-            padding: 1.5rem 1rem !important;
-        }
-
-        .right-image {
-            height: 250px;
-        }
-    }
-    </style>
     <!--FAq Section-->
     <section class="mt-5">
         <div class="container">

@@ -447,6 +447,32 @@ $page_url = basename(__FILE__);
 
 
     <style>
+        @media (max-width: 768px) {
+  /* Full width fix */
+  .container, .container-fluid {
+    max-width: 100% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  /* Remove row negative margins */
+  .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  /* Prevent horizontal scroll */
+  html, body {
+    overflow-x: hidden !important;
+  }
+
+  /* Responsive iframe */
+  .ratio iframe {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+
     /* Responsive Styles */
     .img-box img {
         max-width: 100%;

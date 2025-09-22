@@ -1276,7 +1276,7 @@ ul {
 }
 .product-description {
   color: #555;
-  font-size: 0.95rem;
+  font-size: 18px;
   line-height: 1.5;
   max-height: 300px;
   overflow: auto;
@@ -1293,7 +1293,7 @@ ul {
 }
 
 .product-heading {
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   font-weight: 700;
 }
 

@@ -45,9 +45,10 @@
 }
 
 .hero-content p {
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   /* color: #555; */
   margin-top: 1rem;
+  padding: 0 10px;
 }
 
 .btn-custom-red {
@@ -96,6 +97,7 @@
     line-height: 1.2;
     /* color: #000; */
     font-size: 2rem !important;
+    padding: 0 3px;
   }
 
   .test-p {
@@ -463,7 +465,7 @@
 
 /* about css  */
 .test-li, .blog-p1 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
 }
 
@@ -1119,6 +1121,14 @@
 
 .free-quote a:hover {
   text-decoration: underline;
+}
+.free-quote {
+  color: #000; /* Default for <= 1024px (black text) */
+}
+@media (min-width: 1025px) {
+  .free-quote {
+    color: #fff; /* White text for screens above 1024px */
+  }
 }
 .object-fit-cover {
   object-fit: cover;
@@ -1969,7 +1979,7 @@ ul.benefit-list li {
   border-bottom: none !important;
 }
 p {
-  font-size: 15px;
+  font-size: 20px;
 }
 tbody {
   font-size: 14px;

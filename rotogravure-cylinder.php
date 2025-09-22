@@ -41,218 +41,246 @@ $page_url = basename(__FILE__);
     <?php include 'includes/above-head.php' ?>
 
     <style>
-    /* Responsive Styles */
-    .img-box img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
+       @media (max-width: 1024px) {
+  /* Full width fix */
+  .container, .container-fluid {
+    max-width: 100% !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
 
-    .text-content {
-        padding: 15px;
-    }
+  /* Remove row negative margins */
+  .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
 
-    .custom-icon-list,
-    .pof-feature-list {
-        padding-left: 20px;
-    }
+  /* Prevent horizontal scroll */
+  html, body {
+    overflow-x: hidden !important;
+  }
 
-    .pill-badge {
-        display: inline-block;
-        margin: 5px;
-        padding: 5px 10px;
-        background-color: #f0f0f0;
-        border-radius: 20px;
-        font-size: 14px;
-    }
+  /* Responsive iframe */
+  .ratio iframe {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
 
-    .icon-list {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-    }
-
-    .icon-item {
-        flex: 1 1 200px;
-        padding: 5px;
-    }
-
-    .cta-row {
-        padding: 20px;
-        margin: 20px auto;
-        max-width: 1200px;
-    }
-
-    .btn-enquirys {
-        white-space: nowrap;
-    }
-
-    /* Accordion responsive adjustments */
-    .accordion-button {
-        font-size: 0.9rem;
-        padding: 12px 15px;
-    }
-
-    /* Responsive layout adjustments */
-    @media (max-width: 992px) {
-        .row.align-items-center {
-            flex-direction: column;
+        /* Responsive Styles */
+        .img-box img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         .text-content {
-            padding-right: 0;
-            margin-bottom: 20px;
+            padding: 15px;
         }
 
-        .cta-row {
-            flex-direction: column;
-            text-align: center;
-        }
-
-        .cta-row h4 {
-            margin-bottom: 20px;
-        }
-    }
-
-    @media (max-width: 768px) {
-
-        .row.px-5,
-        .row.align-items-center {
-            padding-left: 15px !important;
-            padding-right: 15px !important;
-        }
-
-        .icon-list {
-            flex-direction: column;
-        }
-
-        .icon-item {
-            flex: 1 1 100%;
+        .custom-icon-list,
+        .pof-feature-list {
+            padding-left: 20px;
         }
 
         .pill-badge {
-            font-size: 12px;
-            padding: 4px 8px;
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            background-color: #f0f0f0;
+            border-radius: 20px;
+            font-size: 14px;
         }
-    }
 
-    @media (max-width: 576px) {
+        .icon-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .icon-item {
+            flex: 1 1 200px;
+            padding: 5px;
+        }
+
+        .cta-row {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+
+        .btn-enquirys {
+            white-space: nowrap;
+        }
+
+        /* Accordion responsive adjustments */
         .accordion-button {
-            font-size: 0.8rem;
+            font-size: 0.9rem;
+            padding: 12px 15px;
         }
 
-        .section-title {
-            font-size: 1.2rem;
+        /* Responsive layout adjustments */
+        @media (max-width: 992px) {
+            .row.align-items-center {
+                flex-direction: column;
+            }
+
+            .text-content {
+                padding-right: 0;
+                margin-bottom: 20px;
+            }
+
+            .cta-row {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .cta-row h4 {
+                margin-bottom: 20px;
+            }
         }
 
-        h2.fw-bold {
-            font-size: 1.5rem;
+        @media (max-width: 768px) {
+
+            .row.px-5,
+            .row.align-items-center {
+                padding-left: 15px !important;
+                padding-right: 15px !important;
+            }
+
+            .icon-list {
+                flex-direction: column;
+            }
+
+            .icon-item {
+                flex: 1 1 100%;
+            }
+
+            .pill-badge {
+                font-size: 12px;
+                padding: 4px 8px;
+            }
         }
-    }
 
-    /* Existing styles */
-    .fa-circle:before {
-        content: "\f111";
-        color: #223f9a !important;
-    }
+        @media (max-width: 576px) {
+            .accordion-button {
+                font-size: 0.8rem;
+            }
 
-    .accordion-button {
-        width: 100%;
-        background-color: #f7f9fc;
-        border: none;
-        border-radius: 10px !important;
-        font-weight: 600;
-        font-size: 1rem;
-        color: #333;
-        padding: 1rem;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
-        display: flex;
-        align-items: center;
-        gap: 0.75rem;
-    }
+            .section-title {
+                font-size: 1.2rem;
+            }
 
-    .accordion-button .fa-icon {
-        transition: transform 0.3s ease;
-        font-size: 1.1rem;
-        color: #004080;
-    }
+            h2.fw-bold {
+                font-size: 1.5rem;
+            }
+        }
 
-    .accordion-button:not(.collapsed) {
-        background-color: #004080;
-        color: #fff;
-    }
+        /* Existing styles */
+        .fa-circle:before {
+            content: "\f111";
+            color: #223f9a !important;
+        }
 
-    .accordion-button:not(.collapsed) .fa-icon {
-        transform: rotate(90deg);
-        color: #000;
-    }
+        .accordion-button {
+            width: 100%;
+            background-color: #f7f9fc;
+            border: none;
+            border-radius: 10px !important;
+            font-weight: 600;
+            font-size: 1rem;
+            color: #333;
+            padding: 1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
 
-    .accordion-body {
-        background-color: #ffffff;
-        padding: 1rem 1.25rem;
-        border-radius: 0 0 10px 10px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-        color: #444;
-    }
+        .accordion-button .fa-icon {
+            transition: transform 0.3s ease;
+            font-size: 1.1rem;
+            color: #004080;
+        }
 
-    .accordion-item {
-        margin-bottom: 1rem;
-        border: none;
-        border-radius: 10px;
-        overflow: hidden;
-    }
+        .accordion-button:not(.collapsed) {
+            background-color: #004080;
+            color: #fff;
+        }
 
-    .accordion-items {
-        background: #fff;
-        border-radius: 12px;
-        box-shadow: inset 0 0 8px rgba(39, 1, 229, 0.05) !important;
-        margin-bottom: 15px;
-        border: none !important;
-    }
+        .accordion-button:not(.collapsed) .fa-icon {
+            transform: rotate(90deg);
+            color: #000;
+        }
 
-    .accordion-buttons:focus {
-        border: none !important;
-    }
+        .accordion-body {
+            background-color: #ffffff;
+            padding: 1rem 1.25rem;
+            border-radius: 0 0 10px 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            color: #444;
+        }
 
-    .accordion-buttons:focus-visible {
-        border: none !important;
-    }
+        .accordion-item {
+            margin-bottom: 1rem;
+            border: none;
+            border-radius: 10px;
+            overflow: hidden;
+        }
 
-    .accordion-buttons {
-        border-radius: 12px;
-        font-weight: 600;
-        padding: 15px 20px;
-        border: none !important;
-        background-color: white;
-    }
+        .accordion-items {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: inset 0 0 8px rgba(39, 1, 229, 0.05) !important;
+            margin-bottom: 15px;
+            border: none !important;
+        }
 
-    .accordion-button:not(.collapsed) {
-        background-color: #fff;
-        color: #000;
-        box-shadow: none;
-    }
+        .accordion-buttons:focus {
+            border: none !important;
+        }
 
-    .accordion-bodys {
-        padding: 0 20px 15px 20px;
-        color: #555;
-        font-size: 0.95rem;
-    }
+        .accordion-buttons:focus-visible {
+            border: none !important;
+        }
 
-    /* AOS animation delays */
-    [data-aos-delay="100"] {
-        transition-delay: 100ms;
-    }
+        .accordion-buttons {
+            border-radius: 12px;
+            font-weight: 600;
+            padding: 15px 20px;
+            border: none !important;
+            background-color: white;
+        }
 
-    [data-aos-delay="200"] {
-        transition-delay: 200ms;
-    }
+        .accordion-button:not(.collapsed) {
+            background-color: #fff;
+            color: #000;
+            box-shadow: none;
+        }
 
-    [data-aos-delay="300"] {
-        transition-delay: 300ms;
-    }
+        .accordion-bodys {
+            padding: 0 20px 15px 20px;
+            color: #555;
+            font-size: 0.95rem;
+        }
+
+        /* AOS animation delays */
+        [data-aos-delay="100"] {
+            transition-delay: 100ms;
+        }
+
+        [data-aos-delay="200"] {
+            transition-delay: 200ms;
+        }
+
+        [data-aos-delay="300"] {
+            transition-delay: 300ms;
+        }
     </style>
+
+
 </head>
 
 <body>
