@@ -81,13 +81,14 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-12 col-sm-6 col-md-4">
+
+                <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-2.jpg" alt="Blog 2" class="blog-image">
+                        <img src="images\BOPP Laminated Bags.png" alt="Blog 2" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1">
-                            <h5 class="fw-bold mb-4">Advanced Robotics Revolutionizing Industrial Workflows</h5>
+                            <h5 class="fw-bold mb-4">BOPP Laminated Bags – Durable, Customizable & Waterproof?</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails2.php">
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>
@@ -96,13 +97,14 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-3.jpg" alt="Blog 3" class="blog-image">
+                        <img src="images\shrink-film-imag.png" alt="Blog 3" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1">
-                            <h5 class="fw-bold mb-4">Top Benefits of the Robotics in Manufacturing</h5>
+                            <h5 class="fw-bold mb-4">The Growing Demand for POF Shrink Film in the E-commerce Industry?</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails3.php">
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>
@@ -110,17 +112,18 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
 
             </div>
-            <!-- <div class="row g-4 mt-5">
+
+            <div class="row g-4 mt-5">
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-4.jpg" alt="Blog 4" class="blog-image">
+                        <img src="images\BOPP-Woven.webp" alt="Blog 4" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1 ">
-                            <h5 class="fw-bold mb-4">Leveraging Data Analytics for Smarter Production</h5>
+                            <h5 class="fw-bold mb-4">BOPP Woven Bags vs. Traditional Packaging: Why Businesses Are Making the Switch?</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails4.php">
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>
@@ -131,11 +134,11 @@
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-5.jpg" alt="Blog 5" class="blog-image">
+                        <img src="images\boxed.avif" alt="Blog 5" class="blog-image-1">
                         <div class="blog-body  d-flex flex-column flex-grow-1">
-                            <h5 class="fw-bold mb-4">Reducing Operational Costs Through Automation</h5>
+                            <h5 class="fw-bold mb-4">How BOPP Woven Bags Enhance Branding and Marketing for Businesses?</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails5.php">
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>
@@ -146,11 +149,11 @@
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="blog-card shadow h-100 d-flex flex-column">
-                        <img src="images\post-6.jpg" alt="Blog 6" class="blog-image">
+                        <img src="images\images.webp" alt="Blog 6" class="blog-image">
                         <div class="blog-body  d-flex flex-column flex-grow-1">
-                            <h5 class="fw-bold mb-4">The Advantages of Customized Manufacturing Solutions</h5>
+                            <h5 class="fw-bold mb-4">What Does BOPP stands for in BOPP woven bags?</h5>
                             <div class="mt-auto mb-3">
-                                <a href="blogdetails.php">
+                                <a href="blogdetails6.php">
                                     <button class="btn read-btn">
                                         Read More <i class="bi bi-arrow-up-right"></i>
                                     </button>
@@ -159,7 +162,122 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
+
+            <div class="row g-4 mt-5">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\Special-Purpose-Shrink-Film.png" alt="Blog 4" class="blog-image">
+                        <div class="blog-body  d-flex flex-column flex-grow-1 ">
+                            <h5 class="fw-bold mb-4">Comparing POF Shrink Film with Other Types of Films</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails7.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\BOPP-Woven -Bags.jpeg" alt="Blog 5" class="blog-image">
+                        <div class="blog-body  d-flex flex-column flex-grow-1">
+                            <h5 class="fw-bold mb-4">What Makes BOPP Woven Bags the Future of Packaging?</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails8.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\POF-PE-and-PVC-Shrink-Film.webp" alt="Blog 6" class="blog-image-1">
+                        <div class="blog-body  d-flex flex-column flex-grow-1">
+                            <h5 class="fw-bold mb-4">How Can POF Shrink Film Enhance Product Presentation?</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails9.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row g-4 mt-5">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="images\location-banner.jpg" alt="Blog 4" class="blog-image">
+                        <div class="blog-body  d-flex flex-column flex-grow-1 ">
+                            <h5 class="fw-bold mb-4">Explore Top Quality BOPP Woven Bags at Regal Woven</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails10.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\pvcvspof.png" alt="Blog 5" class="blog-image">
+                        <div class="blog-body  d-flex flex-column flex-grow-1">
+                            <h5 class="fw-bold mb-4">POF vs PVC</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails11.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\blog3-banner.png" alt="Blog 6" class="blog-image-1">
+                        <div class="blog-body  d-flex flex-column flex-grow-1">
+                            <h5 class="fw-bold mb-4">What Is Pof Shrink Film?</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails12.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row g-4 mt-5">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="blog-card shadow h-100 d-flex flex-column">
+                        <img src="gallery\TYPES-OF-POF-SHRINK-FILM.png" alt="Blog 4" class="blog-image-1">
+                        <div class="blog-body  d-flex flex-column flex-grow-1 ">
+                            <h5 class="fw-bold mb-4">Bopp Laminated Pp Woven Bags</h5>
+                            <div class="mt-auto mb-3">
+                                <a href="blogdetails13.php">
+                                    <button class="btn read-btn">
+                                        Read More <i class="bi bi-arrow-up-right"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
         </div>
         </div>
     </section>

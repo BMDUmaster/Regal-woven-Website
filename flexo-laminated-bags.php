@@ -142,8 +142,8 @@ $page_url = basename(__FILE__);
 
         .row.px-5,
         .row.align-items-center {
-            padding-left: 15px !important;
-            padding-right: 15px !important;
+            /* padding-left: 15px !important;
+            padding-right: 15px !important; */
         }
 
         .icon-list {
@@ -429,7 +429,7 @@ $page_url = basename(__FILE__);
                             </div>
 
                             <!-- Text Content (Right) -->
-                            <div class="col-lg-6 d-flex flex-column" data-aos="fade-left">
+                            <div class="col-lg-6 d-flex flex-column" data-aos="fade-left" style="padding: 0">
                                 <h4 class="mb-4"> Bopp Flexo Laminated Bags</h4>
 
                                 <!-- This wrapper takes remaining height and centers its content vertically -->
@@ -592,7 +592,7 @@ $page_url = basename(__FILE__);
             </section>
 
         </div>
-        <div class="container-fluid overflow-hidden">
+        <div class="container-fluid overflow-hidden p-0">
             <div class="row">
                 <div class=" col-12 px-0">
 

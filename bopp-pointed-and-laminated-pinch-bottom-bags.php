@@ -77,7 +77,7 @@ $page_url = basename(__FILE__);
                         <div class="">
                             <!-- <h2 class="fw-bold mb-2 display-5 fw-bold">BOPP Laminated Pinch Bottom Bags</h2> -->
                             <!-- <h6 class="text-muted mb-2">Suitable for:</h6> -->
-                            <p>
+                            <p class= "para">
                                 We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
                                 and BOPP Laminated PP Woven Bags. Our expansive manufacturing facility spans an
                                 impressive 8000 square meters, a
@@ -174,7 +174,7 @@ $page_url = basename(__FILE__);
                             </div>
                             <div>
                                 <div class="d-flex justify-content-center">
-                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/X-TPW9BihXA?si=pwVNXAzZnF0LkQez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+                                   <iframe width="800" height="500" src="gallery/Wovenbags.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
                                 </div> 
                             </div>
                         </div>
@@ -457,8 +457,8 @@ $page_url = basename(__FILE__);
 
   /* Remove row negative margins */
   .row {
-    margin-right: 0 !important;
-    margin-left: 0 !important;
+    /* margin-right: 0 !important;
+    margin-left: 0 !important; */
   }
 
   /* Prevent horizontal scroll */
