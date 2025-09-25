@@ -9,12 +9,13 @@ $page_url = basename(__FILE__);
 <!-- Leading Polyolefin (POF) shrink film manufacturer in India -->
 <head>
     <meta charset="utf-8">
-    <title>POF shrink Films</title>
+    <title>REGAL LLP I INDIA'S Leading Manufacturer of  POF Shrink Film </title>
+    <meta name="description" content="Regal LLP is India’s leading manufacturer of POF shrink film. Available in 12–50 micron and 4–40 inch with printed and biodegradable options.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
-    <meta name="description"
-        content="Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns (12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
-    <meta name="keywords"
-        content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <meta name="description" content="Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns (12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
+    <meta name="keywords" content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -35,6 +36,31 @@ $page_url = basename(__FILE__);
     <?php include 'includes/above-head.php' ?>
 </head>
 <style>
+     @media (max-width: 1024px) {
+        /* Full width fix */
+        .container, .container-fluid {
+            max-width: 100% !important;
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+        }
+
+        /* Remove row negative margins */
+        .row {
+            margin-right: 0 !important;
+            margin-left: 0 !important;
+        }
+
+        /* Prevent horizontal scroll */
+        html, body {
+            overflow-x: hidden !important;
+        }
+
+        /* Responsive iframe */
+        .ratio iframe {
+            width: 100% !important;
+            height: 100% !important;
+        }
+        }
 body {
     overflow-x: hidden;
 }
@@ -66,9 +92,9 @@ body {
         </div>
     </section>
 
-    <section class="pt-5 bg-light-gray">
+    <section class="pt-4 bg-light-gray">
         <div class="container-fluid">
-            <div class="row g-4 px-5 overflow-hidden">
+            <div class="row g-4 px-2 px-md-5 overflow-hidden">
                 <!-- Left Column -->
                 <div class="col-lg-6 mb-2" data-aos="fade-right" data-aos-duration="800">
                     <div class="custom-card d-flex">
@@ -179,7 +205,7 @@ body {
 </div>
 
 
-            <div class="row align-items-center px-5 overflow-hidden">
+            <div class="row align-items-center px-2 px-md-0 overflow-hidden">
                 <!-- Image Column -->
                 <div class="col-lg-6 mt-3">
                     <div data-aos="fade-right" data-aos-duration="800">
@@ -257,7 +283,7 @@ body {
             
 
 
-            <div class="row g-4 px-5 d-flex justify-content-center">
+            <div class="row g-4 px-2 px-md-5 d-flex justify-content-center">
                 <div class="section-title mt-4 col-12" data-aos="fade-up" data-aos-duration="600">Why Us</div>
                     
                 <!-- Card 1 -->
@@ -314,7 +340,7 @@ body {
             </div>
 
             <div class="container text-center mt-5">
-  <img src="images/polyolefin-shrink-film-img (1).png" alt="Shrink Film" class="img-fluid d-block mx-auto" style="width:50%;">
+  <img src="images/polyolefin-shrink-film-img (1).png" alt="Shrink Film" class="img-fluid d-block mx-auto" style="width:85%;">
 </div>
 
 
@@ -324,8 +350,8 @@ body {
                         
                         <!-- Text Section -->
                         <div class="col-md-6">
-                            <h3 class="fw-bold mb-3" data-aos="fade-up" data-aos-duration="600">Additional Information:</h3>
-                            <ul class="custom-list" data-aos="fade-up" data-aos-duration="700">
+                            <h3 class="fw-bold mb-3 px-2 px-md-0 mt-3 mt-md-0" data-aos="fade-up" data-aos-duration="600">Additional Information:</h3>
+                            <ul class="custom-list px-lg-0 px-3 " data-aos="fade-up" data-aos-duration="700">
                                 <li><i class="fa fa-circle" style="font-size:10px; padding-right: 5px;"></i>Being the Manufacturer,
                                     we guarantee you the Best Price Straight from the ISO 9002 Certified Factory.</li>
                                 <li><i class="fa fa-circle" style="font-size:10px; padding-right: 7px;"></i>Full Satisfaction. 100%

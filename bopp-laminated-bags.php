@@ -9,12 +9,13 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>BOPP Pointed and Laminated Bags</title>
+    <title>REGAL LLP I Manufacturer of BOPP Pointed and Laminated Bags</title>
+    <meta name="description" content="Regal LLP designs premium BOPP laminated handle bags, strong, stylish, and eco-friendly packaging options for retail and industrial use.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content="Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns (12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
-    <meta name="keywords"
-        content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <meta name="keywords"content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet"
@@ -279,35 +280,7 @@ $page_url = basename(__FILE__);
 
     <section class="pt-5 bg-light-gray" data-aos="fade-up">
         <div class="container">
-            <!-- <div class="row g-4">
-                <div class="col-lg-6" data-aos="fade-right">
-                    <div class="custom-card w-100 d-flex">
-                        <div>
-                            <h2 class="fw-bold mb-3 display-5 fw-bold">Non-Cross Linked Woven Bags</h2>
-                            <h6 class="text-muted mb-2">Suitable for:</h6>
-                            <p> We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
-                                and BOPP Laminated PP Woven Bags. Our expansive manufacturing facility spans an
-                                impressive 8000 square meters, a
-                                testament to our commitment to excellence and innovation in packaging solutions. With
-                                cutting-edge technology and a dedicated workforce, we have the capacity to produce an
-                                astounding 150,000 bags per day,
-                                ensuring uninterrupted supply and timely delivery to meet our clients' needs. At Regal
-                                Woven Sacks, we're not just meeting industry standards; we're setting new benchmarks for
-                                quality and efficiency in the
-                                packaging sector.</p>
-                        </div>
-                        <div class="d-flex justify-content-start">
-                            <button type="button" class="btn btn-enquiry text-end" data-bs-toggle="modal"
-                                data-bs-target="#enquiryModal">
-                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6" data-aos="fade-left">
-                    <img src="gallery/img12.jpg" alt="POF Shrink Film" class="custom-image">
-                </div>
-            </div> -->
+           
 
             
 
@@ -433,8 +406,6 @@ $page_url = basename(__FILE__);
                                         <div class="tab-pane fade  " id="specifications" role="tabpanel">
                                             <!-- Types Tab (empty for now) -->
                                         
-                                            <!-- <h4 class=" text-start py-2 ">Product
-                                                Details</h4>  -->
                                             <table class="table custom-table mb-0 table-striped">
                                                 <tbody>
                                                     <tr>

@@ -9,7 +9,9 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Opaque POF Shrink Film Manufacturer in India | Regal Woven Sacks</title>
+    <title>REGAL LLP I Manufacturer of OPAQUE POF SHRINK FILM</title>
+    <link rel="canonical" href="https://www.regalwoven.com/" />
+    <meta name="description" content="Regal LLP produces high-quality opaque POF shrink film, offering strong, reliable, and clear packaging solutions for multiple industries.">
     <meta name="title" content="Opaque POF Shrink Film Manufacturer in India" />
     <meta name="description"
         content="Premium opaque POF shrink film for confidential packaging. UV protection, complete concealment, and machine compatibility. Available in 12-50 micron thicknesses." />
@@ -213,47 +215,47 @@ $page_url = basename(__FILE__);
         <div class="container-fluid">
             <section class="shrink-film-section">
                 <!-- Title -->
-                <div class="row px-5">
+                
+                <div class="row align-items-start px-0 px-md-5">
+  <!-- Title -->
+  <div class="col-12 text-start" data-aos="fade-down">
+    <h2>Opaque POF Shrink Film</h2>
+  </div>
 
-                </div>
+  <!-- Text Content -->
+  <div class="col-12 col-lg-8 px-0 px-md-2 order-2 order-lg-1" data-aos="fade-right">
+    <div class="content-box mt-4">
+      <h5>What is Opaque POF Shrink Film?</h5>
+      <p class="mt-4">
+        Opaque POF shrink film is a polyolefin-based packaging film which combines the
+        durability and flexibility of standard POF with an opaque (non-transparent) finish.
+        Unlike clear shrink films, this variant blocks visibility, making it ideal for applications
+        that demand privacy, light protection, or brand security.
+      </p>
+      <p>
+        <strong>It is available in a range of thicknesses such as:</strong>
+      </p>
+      <ul class="film-types mt-5">
+        <li>POF 12 micron</li>
+        <li>POF 15 micron</li>
+        <li>POF 19 micron</li>
+        <li>POF 25 micron</li>
+        <li>POF 50 micron</li>
+      </ul>
+    </div>
+  </div>
 
-                <div class="row align-items-start px-5">
-                    <div class="col-12 text-start mb-3" data-aos="fade-down">
-                        <h2> Opaque POF Shrink Film</h2>
-                    </div>
-                    <div class="col-12 col-lg-8" data-aos="fade-right">
-                        <div class="content-box mt-4">
-                            <h5>What is Opaque POF Shrink Film?</h5>
-                            <p class="mt-4">
-                                Opaque POF shrink film is a polyolefin-based packaging film which combines the
-                                durability
-                                and flexibility of standard POF with an opaque (non-transparent) finish. Unlike clear
-                                shrink
-                                films, this variant blocks visibility, making it ideal for applications that demand
-                                privacy,
-                                light protection, or brand security.
-                            </p>
-                            <p>
-                                <strong>It is available in a range of thicknesses such as:</strong>
-                            </p>
-                            <ul class="film-types mt-5">
-                                <li>POF 12 micron</li>
-                                <li>POF 15 micron</li>
-                                <li>POF 19 micron</li>
-                                <li>POF 25 micron</li>
-                                <li>POF 50 micron</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-4" data-aos="fade-left">
-                        <div class="">
-                            <img src="images\img17.jpg" alt="Opaque POF Shrink Film"
-                                class="img-fluid rounded grayscale-hover w-100">
-                        </div>
-                    </div>
-                </div>
+  <!-- Image -->
+  <div class="col-12 col-lg-4 order-1 order-lg-2" data-aos="fade-left">
+    <div>
+      <img src="images/img17.jpg" alt="Opaque POF Shrink Film"
+           class="img-fluid rounded grayscale-hover w-100">
+    </div>
+  </div>
+</div>
 
-                <div class="row align-items-center gy-4 px-5 mt-5">
+
+                <div class="row align-items-center gy-4  px-0 px-md-5 mt-5">
                     <div class="col-12 col-md-4" data-aos="fade-left">
                         <div class="image-boxs">
                             <img src="images/img18.jpg" alt="POF Shrink Film Use Cases"
@@ -263,7 +265,7 @@ $page_url = basename(__FILE__);
                     <div class="col-12 col-md-8" data-aos="fade-right">
                         <div class="industry-box">
                             <h5 class="fw-bold">Benefits of Opaque POF Shrink Film</h5>
-                            <ul class="ps-0 m-0 list-unstyled">
+                            <ul class="p-0 m-0 list-unstyled px-md-3">
                                 <li><i class="fa-solid fa-circle text-primary me-2"></i> <strong>Complete Product
                                         Concealment</strong><br>
                                     Perfect for packaging items where visibility must be avoided (e.g. confidential,
@@ -301,34 +303,36 @@ $page_url = basename(__FILE__);
                     </div>
                 </div>
 
-                <div class="row align-items-center gy-4 px-5 mt-5">
+                <div class="row align-items-center gy-4  px-0 px-md-5 mt-5">
                     <div class="col-12" data-aos="fade-right" data-aos-delay="200">
                         <div class="content-box">
                             <h5 class="fw-bold mb-3">Who Uses Opaque POF Shrink Film?</h5>
                             <p>Our opaque shrink films are trusted across industries such as:</p>
-                            <ul class="choose-list ps-0 list-unstyled">
-                                <li><i class="fa-solid fa-circle text-primary me-2"></i>
-                                    <strong>Electronics</strong> (to conceal branding or model info)
+                            <ul class="p-0 m-0 list-unstyled px-md-3">
+                                <li><i class="fa-solid fa-circle text-primary me-2"></i> <strong>Electronics</strong> (to conceal branding or model info)
                                 </li>
-                                <li><i class="fa-solid fa-circle text-primary me-2"></i>
-                                    <strong>Pharmaceuticals</strong> (for privacy and protection)
+
+                                <li class="mt-3"><i class="fa-solid fa-circle text-primary me-2"></i> <strong>Pharmaceuticals</strong> (for privacy and protection)
                                 </li>
-                                <li><i class="fa-solid fa-circle text-primary me-2"></i>
-                                    <strong>Luxury Items</strong> (to reduce theft and maintain exclusivity)
+
+                                <li class="mt-3"><i class="fa-solid fa-circle text-primary me-2"></i> <strong>Luxury Items</strong> (to reduce theft and maintain exclusivity)
                                 </li>
-                                <li><i class="fa-solid fa-circle text-primary me-2"></i>
-                                    <strong>E-commerce Packaging</strong> (for discrete shipping)
+
+                                <li class="mt-3"><i class="fa-solid fa-circle text-primary me-2"></i> <strong>E-commerce Packaging</strong> (for discrete shipping)
                                 </li>
-                                <li><i class="fa-solid fa-circle text-primary me-2"></i>
+
+                                <li class="mt-3"><i class="fa-solid fa-circle text-primary me-2"></i>
                                     <strong>FMCG & Personal Care</strong> (to block UV exposure)
                                 </li>
+
+                                
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <div class="row px-5">
+            <div class="row  px-0 px-md-5">
                 <div class="col-12">
                     <div class="section-title mt-4">FREQUENTLY ASKED QUESTIONS</div>
 

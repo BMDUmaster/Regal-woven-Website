@@ -8,10 +8,11 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Regal Woven | POF Shrink Film and PP Woven Bags Manufacturer</title>
+    <title>REGAL LLP l Manufacturer of POF SHRINK FILM and BOPP Woven Bags</title>
+    <meta name="description" content="Regal Woven Sacks LLP manufactures premium POF shrink film and BOPP woven bags, trusted for secure and durable packaging solutions.">
 
     <!-- Canonical URL (Uncomment when using) -->
-    <!-- <link rel="canonical" href="https://www.regalwoven.com/" /> -->
+    <link rel="canonical" href="https://www.regalwoven.com/" />
 
     <!-- Bootstrap CSS (Latest Stable) -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -619,7 +620,7 @@ $page_url = basename(__FILE__);
                      <div class="views">
                       28 April 2025
                         <h4 class="" style="margin-top: 10px !important;">Eco-Friendly POF Shrink Film – Sustainable Packaging</h4>
-                        <a href="/regal-woven-website/blogdetails.php" style="background-color:#312f92; color: white;" class="btn ">Read More</a>
+                        <a href="/regal-woven-website/eco-friendly-pof-shrink-film-sustainable.php" style="background-color:#312f92; color: white;" class="btn ">Read More</a>
                      </div>
                     
                   </div>
@@ -634,7 +635,7 @@ $page_url = basename(__FILE__);
                      <div class="views">
                       10 April 2025
                         <h4 class="" style="margin-top: 10px !important;">BOPP Laminated Bags – Durable, Customizable &amp; Waterproof </h4>
-                        <a href="/regal-woven-website/blogdetails.php" style="background-color:#312f92; color: white;" class="btn ">Read More</a>
+                        <a href="/regal-woven-website/bopp-laminated-bags-food-agriculture-retail.php" style="background-color:#312f92; color: white;" class="btn ">Read More</a>
                      </div>
                     
                   </div>

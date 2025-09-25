@@ -11,13 +11,16 @@ $page_url = basename(__FILE__);
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flexo Laminnated Bags</title>
+    <title>REGAL LLP I Leading Manufacturer  of Flexo Laminated Bags</title>
+    <meta name="description" content="Regal LLP specializes in flexo laminated bags with top-quality printing, strength, and branding for effective packaging.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
 
     <meta name="keywords"
         content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -328,40 +331,7 @@ $page_url = basename(__FILE__);
 
     <section class="pt-5 bg-light-gray">
         <div class="container">
-            <!-- <div class="row g-4">
-                Left Column
-                <div class="col-lg-6" data-aos="fade-right">
-                    <div class="custom-card w-100 d-flex">
-                        <div class="">
-                            <h2 class="fw-bold mb-3 display-5 fw-bold">Non-Cross Linked Woven Bags</h2>
-                            <h6 class="text-muted mb-2" data-aos="fade-up" data-aos-delay="100">Suitable for:</h6>
-                            <p class="" data-aos="fade-up" data-aos-delay="150">
-                                We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
-                                and BOPP Laminated PP Woven Bags. Our expansive manufacturing facility spans an
-                                impressive 8000 square meters, a
-                                testament to our commitment to excellence and innovation in packaging solutions. With
-                                cutting-edge technology and a dedicated workforce, we have the capacity to produce an
-                                astounding 150,000 bags per day,
-                                ensuring uninterrupted supply and timely delivery to meet our clients' needs. At Regal
-                                Woven Sacks, we're not just meeting industry standards; we're setting new benchmarks for
-                                quality and efficiency in the
-                                packaging sector.
-                            </p>
-                        </div>
-                        <div class="d-flex justify-content-start" data-aos="fade-up" data-aos-delay="200">
-                            <button type="button" class="btn btn-enquiry text-end" data-bs-toggle="modal"
-                                data-bs-target="#enquiryModal">
-                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                Right side image
-                <div class="col-lg-6" data-aos="fade-left">
-                    <img src="gallery\img12.jpg" alt="POF Shrink Film" class="custom-image">
-                </div>
-            </div> -->
+        
 
             <!--  Send Enquiry open Modal -->
             <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel"

@@ -1,10 +1,8 @@
 body {
-  /* font-family: "Open Sans", sans-serif; */
   font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  /* color: #7f7f8a; */
 }
 
 h1,
@@ -14,7 +12,6 @@ h4,
 h5,
 h6,
 .head-title {
-  /* font-family: "Rubik"; */
   font-family: "Plus Jakarta Sans", sans-serif;
 }
 
@@ -69,21 +66,13 @@ h6 {
   font-weight: 300;
 }
 
-.m-primary-color {
-  /* color: #ff5e14; */
-}
+
 
 .m-primary-bg {
   background-color: #223f9a;
 }
 
-/* .m-secondary-color {
-  color: #06163a;
-} */
 
-/* .m-secondary-bg {
-    background-color: #223f9a;
-} */
 
 .tertiary-color {
   color: #e4eaf7;

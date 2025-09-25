@@ -8,17 +8,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>About Regal Woven Sacks LLP- Leading Packaging Solutions Provider</title>
+    <title>REGAL WOVEN SACKS LLP I About us</title>
+    <link rel="canonical" href="https://www.regalwoven.com/" />
+    <meta name="description" content="Learn about Regal Woven Sacks LLP, a trusted manufacturer of POF shrink films and BOPP woven bags, delivering excellence in packaging.">
     <meta name="title" content="Regal Woven Sacks LLP- Leading Packaging Solutions Provider">
     <meta name="description"
         content="Learn about Regal Woven Sacks, a top provider of high-quality packaging solutions. Discover our expertise in POF shrink film and PP woven bags, and our commitment to excellence in every product." />
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,600i,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500,500i,700,700i,900" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6"> -->
-
-
-
+   
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -99,7 +95,6 @@
         <div id="preloader-inner"></div>
     </div>
     <!-- header section -->
-    <!-- header section -->
     <?php include 'includes/header.php' ?>
 
 
@@ -113,7 +108,7 @@
                         <h1 class="breadcurmbs-head">About Us
                         </h1>
                         <ul class="breadcrumbs_content_1 ">
-                            <li><a href="/" title="home"> Home </a> /</li>
+                            <li><a href="index.php" title="home"> Home </a> /</li>
                             <li><span>About Us</span></li>
                         </ul>
                     </div>
@@ -355,16 +350,7 @@
                                     materials. This commitment guarantees superior performance, durability, and
                                     consistency.
                                 </li>
-                                <!-- <li class="mb-3">
-                                    <b><i class="fa-solid fa-diamond colorchange me-2"></i> Commitment to
-                                        Sustainability</b> <br>
-                                    2. Commitment to Sustainability
-                                    Environmental responsibility is at the core of our operations. We maintain dedicated
-                                    recycling units for both Polyolefin Shrink Film and PP Woven Bags,
-                                    ensuring all waste is repurposed responsibly. Our zero-waste approach not only
-                                    supports a cleaner environment but also promotes better public health
-                                    outcomes.
-                                </li> -->
+                                
                                 <li class="mb-3">
                                     <b><i class="fa-solid fa-diamond colorchange me-2"></i> In-House Manufacturing
                                         Excellence</b> <br>
@@ -499,7 +485,7 @@
     <!--FAq Section-->
     <section class="mt-5">
         <div class="container">
-            <!-- //py-5 position-relative" style="z-index: 2; -->
+            <!-- py-5 position-relative" style="z-index: 2; -->
             <div class="row align-items-center">
                 <div class="col-md-12">
                     <p class="text-uppercase fw-semibold mb-2">
@@ -674,12 +660,6 @@
     <!-- js library including -->
     <script src="js/jquery.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-    <!-- <script src="js/masonary.min.js"></script>
-    <script src="js/multipleFilterMasonry.js"></script>
-    <script src="js/noframework.waypoints.min.js"></script>
-    <script src="js/light-box.js"></script>
-    <script src="js/jquery.countTo.js"></script>
-    <script src="js/progressbar.min.js"></script> -->
     <script src="js/index.js"></script>
 
 

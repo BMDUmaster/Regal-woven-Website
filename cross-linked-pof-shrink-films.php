@@ -10,14 +10,15 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Cross-Linked POF Shrink Films
-    </title>
+    <title>REGAL LLP I Manufacturer of Cross-Linked POF Shrink Films</title>
+    <meta name="description" content="Regal LLP manufactures cross-linked POF shrink films with superior strength, high clarity, and advanced packaging performance.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
 " />
 
-    <meta name="keywords"
-        content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <meta name="keywords" content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -73,96 +74,93 @@ $page_url = basename(__FILE__);
             <section class="shrink-film-section">
 
                 <!-- Title -->
-                <div class="row px-5">
+                <div class="row px-0 px-md-5">
                     <div class="col-12 text-start mb-3" data-aos="fade-down">
                         <h2> Cross-Linked POF Shrink Films</h2>
                     </div>
                 </div>
 
-                <div class="row align-items-start px-5 ">
-                    <div class="col-12 col-lg-8" data-aos="fade-right">
-                        <p>
-                            Cross-linked Polyolefin (POF) shrink film is an advanced packaging material made by
-                            adding a cross-linking process during manufacturing that makes it a better POF shrink
-                            film. This process creates molecular bonds between polymer chains, making the film
-                            stronger, more puncture-resistant, and suitable for high-speed packaging machines.
-                        </p>
-                        <p>
-                            At <strong>Real Weaven Sales LLP</strong>, we produce a wide range of cross-linked POF
-                            shrink films including:
-                        </p>
-                        <ul class="film-types">
-                            <li></i>POF 12
-                                micron</li>
-                            <li></i>POF 15
-                                micron</li>
-                            <li></i>POF 19
-                                micron</li>
-                            <li></i>POF 25
-                                micron</li>
-                            <li></i>POF 50
-                                micron</li>
-                        </ul>
+                <!-- Section 1 -->
+                <div class="row align-items-start px-0 px-md-5">
+                <div class="col-12 col-lg-8" data-aos="fade-right">
+                    <p>
+                    Cross-linked Polyolefin (POF) shrink film is an advanced packaging material made by
+                    adding a cross-linking process during manufacturing that makes it a better POF shrink
+                    film. This process creates molecular bonds between polymer chains, making the film
+                    stronger, more puncture-resistant, and suitable for high-speed packaging machines.
+                    </p>
+                    <p>
+                    At <strong>Real Weaven Sales LLP</strong>, we produce a wide range of cross-linked POF
+                    shrink films including:
+                    </p>
+                    <ul class="film-types">
+                    <li>POF 12 micron</li>
+                    <li>POF 15 micron</li>
+                    <li>POF 19 micron</li>
+                    <li>POF 25 micron</li>
+                    <li>POF 50 micron</li>
+                    </ul>
 
-                        <p>
-                            Each variant is tailored to specific packaging needs, ensuring efficiency, product
-                            protection, and excellent visual appeal.
-                        </p>
-                        <h6><b>Key Benefits of Cross-Linked POF Shrink Film:</b></h6>
-                        <ul>
-                            <li><strong>Superior Strength & Durability</strong> – Cross-linking method enhances tear resistance and toughness in it, making it ideal for irregular-shaped products.</li>
-                            
-                            <li><strong>Excellent Clarity</strong> – The film provides crystal-clear packaging that enhances product visibility and shelf appeal.
-</li>
-                            <li><strong>High-Speed Performance</strong> –  Designed for high-speed packaging lines, it offers the best shrink properties with reduced waste.</li>
-                            <li><strong>Low Shrink Force</strong> –  Protects delicate products such as food, Toys, cosmetics, and electronics without causing deformation.
-</li>
-                            <li><strong>Eco-Friendly Options</strong> –  We offer POF biodegradable shrink films which are sustainable and safe for the environment.
-</li>
-                            <li><strong>Printable Surface</strong> –  Available in POF printed variants, providing branding, barcoding, and product information.
-</li>
-                        </ul>
-                    </div>
-
-                    <!-- Right: Image -->
-                    <div class="col-12 col-lg-4 image-box mt-4 mt-md-0" data-aos="fade-left">
-                        <img src="images\0.png" alt="Shrink Film Image" />
-                    </div>
+                    <p>
+                    Each variant is tailored to specific packaging needs, ensuring efficiency, product
+                    protection, and excellent visual appeal.
+                    </p>
+                    <h6><b>Key Benefits of Cross-Linked POF Shrink Film:</b></h6>
+                    <ul class="p-0">
+                    <li><strong>Superior Strength & Durability</strong> – Cross-linking method enhances tear resistance and toughness in it, making it ideal for irregular-shaped products.</li>
+                    <li><strong>Excellent Clarity</strong> – The film provides crystal-clear packaging that enhances product visibility and shelf appeal.</li>
+                    <li><strong>High-Speed Performance</strong> – Designed for high-speed packaging lines, it offers the best shrink properties with reduced waste.</li>
+                    <li><strong>Low Shrink Force</strong> – Protects delicate products such as food, toys, cosmetics, and electronics without causing deformation.</li>
+                    <li><strong>Eco-Friendly Options</strong> – We offer POF biodegradable shrink films which are sustainable and safe for the environment.</li>
+                    <li><strong>Printable Surface</strong> – Available in POF printed variants, providing branding, barcoding, and product information.</li>
+                    </ul>
                 </div>
-                <div class="row align-items-center gy-4 px-5 mt-4">
 
-                    <div class="col-12 col-md-4" data-aos="fade-left">
+                <!-- Right: Image -->
+                <div class="col-12 col-lg-4 " data-aos="fade-left">
+                    <img src="images/0.png" alt="Shrink Film Image" class="img-fluid" />
+                </div>
+                </div>
+
+                <!-- Section 2 -->
+                <div class="row align-items-center gy-4 px-0 px-md-5 mt-4">
+                    <!-- Left Image -->
+                    <div class="col-12 col-lg-4 order-2 order-lg-1" data-aos="fade-left">
                         <div class="image-boxs">
-                            <img src="images\img16.jpg" alt="POF Shrink Film Use Cases">
+                        <img src="images/img16.jpg" alt="POF Shrink Film Use Cases" class="img-fluid" />
                         </div>
                     </div>
-                    <div class="col-12 col-md-8" data-aos="fade-right">
+
+                    <!-- Right Content -->
+                    <div class="col-12 col-lg-8 order-1 order-lg-2" data-aos="fade-right">
                         <div class="industry-box">
-                            <h5>Who Uses Cross-Linked POF Shrink Film?</h5>
-                            <p>Cross-linked POF shrink films are used across various industries:</p>
-                            <div class="  p-4 border-0 industry-card">
-                                <h5 class="mb-3 text-dark fw-bold">Used In Industries:</h5>
-                                <ul class="industry-list p-0 m-0">
-                                    <li>Food & Beverages</li>
-                                    <li>Pharmaceuticals</li>
-                                    <li>Toys</li>
-                                    <li>Electronics</li>
-                                    <li>Stationery</li>
-                                    <li>Cosmetics</li>
-                                    <li>Home Goods</li>
-                                    <li>Retail Packaging</li>
-                                </ul>
-                            </div>
+                        <h5>Who Uses Cross-Linked POF Shrink Film?</h5>
+                        <p>Cross-linked POF shrink films are used across various industries:</p>
+                        <div class="border-0 industry-card">
+                            <h5 class="mb-3 text-dark fw-bold">Used In Industries:</h5>
+                            <ul class="industry-list p-0 m-0">
+                            <li>Food & Beverages</li>
+                            <li>Pharmaceuticals</li>
+                            <li>Toys</li>
+                            <li>Electronics</li>
+                            <li>Stationery</li>
+                            <li>Cosmetics</li>
+                            <li>Home Goods</li>
+                            <li>Retail Packaging</li>
+                            </ul>
+                        </div>
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center gy-4 px-5 mt-5">
+
+
+                <div class="row align-items-center gy-4 px-0 px-md-5  mt-5">
                     <div class="col-12 ">
                         <div class="content-box ps-lg-4">
                             <h5 class="fw-bold  mb-3">Why Choose Regal Woven Sacks LLP?</h5>
                             <p><strong>As one of the leading POF shrink film manufacturers in India, Regal Woven Sacks
                                     LLP ensures:</strong></p>
-                            <ul class="choose-list">
+                            <ul class="choose-list p-0">
                                 <li>Consistent quality</li>
                                 <li>Competitive pricing</li>
                                 <li>Timely delivery</li>
@@ -176,7 +174,7 @@ $page_url = basename(__FILE__);
                 </div>
             </section>
 
-            <div class="row px-5">
+            <div class="row px-0 px-md-5 ">
                 <div class="col-12">
                     <div class="section-title mt-4">FREQUENTLY ASKED QUESTIONS</div>
 
@@ -293,6 +291,30 @@ $page_url = basename(__FILE__);
     </div>
 
     <style>
+             @media (max-width: 768px) {
+  /* Full width fix */
+  .container, .container-fluid {
+    max-width: 100% !important;
+    
+  }
+
+  /* Remove row negative margins */
+  .row {
+    /* margin-right: 0 !important;
+    margin-left: 0 !important; */
+  }
+
+  /* Prevent horizontal scroll */
+  html, body {
+    overflow-x: hidden !important;
+  }
+
+  /* Responsive iframe */
+  .ratio iframe {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
     .fa-circle:before {
         content: "\f111";
         color: #223f9a !important;

@@ -61,7 +61,6 @@ h5.megae-title {
   width: calc(100% - 12px);
 }
 .tagpoint-main-menu > li.m_wrap_phone > a {
-  /* border-left: 1px dotted #d4dae6; */
   padding-left: 20px;
   padding-right: 20px;
   margin-left: 10px;
@@ -420,7 +419,6 @@ ul.sub-menu .megamenu-list {
 .r-breadcurmbs-4 .breadcrumbs_content_1 li span,
 .r-breadcurmbs-5 .breadcrumbs_content_1 li a,
 .r-breadcurmbs-5 .breadcrumbs_content_1 li span {
-  /* color: #b0b5c1; */
   color: #fbfbfb;
 }
 .r-breadcurmbs-2 {
@@ -429,28 +427,9 @@ ul.sub-menu .megamenu-list {
   background-size: cover;
   background-position: center;
   background-color: #00000088;
-  /* color: white;
-  z-index: 1;
-  /* filter: grayscale(100%); */
+ 
 }
-/* section#about{
-  background: url("../images/newBanner.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-section#blogs{
-  background: url("../images/newBanner2.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-section#contacts{
-  background: url("../images/newBanner3.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-} */
+
 
 .r-breadcurmbs-2::before {
   content: "";
@@ -462,9 +441,7 @@ section#contacts{
   background-color: rgba(0, 0, 0, 0.6);
   z-index: -1;
 }
-.r-breadcurmbs-5 {
-  /* background-image: url(imgs/page-header-bg.jpg); */
-}
+
 .tagpoint-menu-2 .tagpoint-main-menu > li > a {
   padding: 24px 12px;
   color: #e4eaf7;
@@ -609,7 +586,6 @@ ul.tabs.about-page-tabs li a .col-lg-3 {
   display: flex;
   height: 100%;
   align-items: center;
-  /* border-right: 1px dotted #e2dcdc; */
   padding: 0 10px 0 0;
 }
 .header-menu-2:not(.tp-fixed-nav) li.m_wrap_phone a {
@@ -1060,7 +1036,6 @@ li.m_wrap_quote_btn {
 }
 .contact_email i {
   font-style: normal;
-  /* margin-left: 5px; */
 }
 .copywright_row {
   padding-top: 30px;
@@ -1129,7 +1104,6 @@ ul {
   margin-left: 40px !important;
   font-weight: bold;
   font-size: 1.2rem;
-  /* width: 80px; */
   line-height: 1.2;
   flex: 1;
 }
@@ -1157,62 +1131,13 @@ ul {
   color: #fff;
 }
 /* ========================End------------------------ */
-/* owl carousel css  */
-/* .owl-nav {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  transform: translateY(-50%);
-  pointer-events: none;
-}
-
-.owl-nav button {
-  pointer-events: all;
-  border: none;
-  background-color: rgb(150, 21, 21);
-  width: 45px;
-  height: 45px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 8px;
-  color: #333;
-  transition: all 0.3s ease;
-  font-size: 24px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-}
-
-.owl-nav button:hover {
-  background-color: #fe5603;
-  color: #fff;
-}
-
-/* image with text  */
-
-/* .highlight-text {
-  background-color: #00a3e0;
-  color: #000;
-  font-weight: 600;
-  padding: 2rem;
-  text-align: center;
-  font-size: 2.2rem;
-}
-.team-img {
-  width: 100%;
-  height: auto;
-  display: block;
-} */
 
 /* ****************************** ========================third section index card css=============  */
 
 .product-card {
   border: 1px solid #eee;
   border-radius: 16px;
-  /* padding: 24px; */
   background-color: #fff;
-  /* padding: 15px; */
   width: 100%;
   height: 100%;
   position: relative;
@@ -1246,7 +1171,6 @@ ul {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  /* filter: grayscale(100%); */
   transition: filter 0.3s ease;
 }
 
@@ -1308,11 +1232,9 @@ ul {
   position: absolute;
   bottom: 16px;
   right: 28px;
-  /* background-color: #04489a; */
   color: #04489a;
   padding: 6px 12px;
   font-size: 1rem;
-  /* border-radius: 20px;*/
   opacity: 0;
   transition: all 0.5s ease;
   display: flex;
@@ -1331,7 +1253,6 @@ ul {
   }
 
   .product-card img {
-    /* margin-bottom: 15px; */
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -1355,13 +1276,9 @@ ul {
     text-align: center;
   }
 
-  .product-card img {
-    /* margin-bottom: 15px; */
-  }
-
+  
   .hover-more {
     position: static;
-    /* margin-top: 20px; */
     justify-content: center;
   }
 }

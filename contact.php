@@ -78,7 +78,7 @@
                         <h1 class="breadcurmbs-head">Contact Us
                         </h1>
                         <ul class="breadcrumbs_content_1 ">
-                            <li><a href="/" title="home"> Home </a> /</li>
+                            <li><a href="index.php" title="home"> Home </a> /</li>
                             <li><span>Contact Us</span></li>
                         </ul>
                     </div>
@@ -215,36 +215,11 @@
     <?php include 'includes/footer.php' ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- <script>
-function initMap() {
-    var map = new google.maps.Map(document.getElementById('tp-map'), {
-        center: { lat: 32.776664, lng: -96.796988 },
-        zoom: 10,
-        zoomControl: false,
-        disableDefaultUI: true,
-        panControl: false,
-        streetViewControl: true,
-        mapTypeControl: false,
-        overviewMapControl: false,
-        clickable: false,
-        scrollwheel: false,
-        mapTypeId: google.maps.MapTypeId.ROADMA,
-
-    });
-} // close function here
-</script> -->
+    
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBNhRP-ga9203Gpv0Rr6v7TqRGDywOrlQ&amp;callback=initMap">
     </script>
-    <!-- js library including -->
-    <!-- <script src="js/jquery.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/masonary.min.js"></script>
-    <script src="js/multipleFilterMasonry.js"></script>
-    <script src="js/noframework.waypoints.min.js"></script>
-    <script src="js/light-box.js"></script>
-    <script src="js/jquery.countTo.js"></script>
-    <script src="js/progressbar.min.js"></script> -->
+  
     <script src="js/script.js"></script>
     <script src="js/index.js"></script>
 </body>

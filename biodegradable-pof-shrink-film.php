@@ -9,12 +9,13 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Biodegradable polyolefin Shrink Film (POF)</title>
+    <title>REGAL LLP I Manufacturer of Biodegradable POF Shrink Film </title>
+    <meta name="description" content="Regal LLP leads in biodegradable POF shrink film, providing sustainable, eco-friendly packaging solutions for modern industries.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description"
         content="Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns (12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!" />
-    <meta name="keywords"
-        content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <meta name="keywords" content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
@@ -63,8 +64,8 @@ $page_url = basename(__FILE__);
     /* Responsive padding */
     @media (max-width: 768px) {
         .row.px-5 {
-            padding-left: 15px !important;
-            padding-right: 15px !important;
+            /* padding-left: 15px !important;
+            padding-right: 15px !important; */
         }
 
         /* Disable animations on mobile */
@@ -205,56 +206,60 @@ $page_url = basename(__FILE__);
         <div class="container-fluid">
             <section class="shrink-film-section">
                 <!-- Title -->
-                <div class="row px-5 overflow-hidden">
-                    <div class="col-12 text-start mb-3" data-aos="fade-down">
+                <div class="row px-0 px-md-5 overflow-hidden">
+                    <div class="col-12 text-start mb-3 p-0" data-aos="fade-down">
                         <h2>Biodegradable polyolefin Shrink Film (POF)</h2>
                     </div>
                 </div>
 
-                <div class="row align-items-start px-5">
-                    <div class="col-12 col-lg-8">
-                        <div class="content-box ps-lg-4">
-                            <h5 class="fw-bold mb-3 text-muted">What is Biodegradable polyolefin Shrink Film?</h5>
-                            <p>
-                                Biodegradable POF (Polyolefin) shrink film is a special type of shrink packaging quality
-                                that decomposes naturally over time, leaving very little environmental impact.
-                                Unlike conventional plastic, biodegradable POF breaks down when exposed to natural
-                                conditions like moisture, sunlight, and microbes.
-                            </p>
-                            <p>
-                                At <strong>Regal Woven Sacks LLP</strong>, we manufacture biodegradable POF in
-                                thicknesses as low as 5 microns, suitable for high-speed packaging while maintaining
-                                environmental compliance.
-                            </p>
+                <div class="row align-items-start px-0 px-md-5">
+  <!-- Text Content -->
+  <div class="col-12 col-lg-8 p-0 order-2 order-lg-1">
+    <div class="content-box ps-lg-4">
+      <h5 class="fw-bold mb-3 text-muted">What is Biodegradable Polyolefin Shrink Film?</h5>
+      <p>
+        Biodegradable POF (Polyolefin) shrink film is a special type of shrink packaging quality
+        that decomposes naturally over time, leaving very little environmental impact.
+        Unlike conventional plastic, biodegradable POF breaks down when exposed to natural
+        conditions like moisture, sunlight, and microbes.
+      </p>
+      <p>
+        At <strong>Regal Woven Sacks LLP</strong>, we manufacture biodegradable POF in
+        thicknesses as low as 5 microns, suitable for high-speed packaging while maintaining
+        environmental compliance.
+      </p>
 
-                            <h6 class="fw-bold mt-4 mb-3 "><i
-                                    class="fa-solid fa-circle-check check-icon animate"></i>Why
-                                Use Biodegradable POF Shrink Film?</h6>
-                            <ul class="bio-benefits-list list-unstyled ps-0 ">
-                                <li><span class="benefit-no">1.</span><strong>Complies with Government Guidelines</strong> –  Under India's Extended Producer Responsibility (EPR) and Plastic Waste Management Rules, shrink films under 50 microns made from biodegradable material are often exempt with certain restrictions. Which makes them legally and environmentally ideal for packaging companies.</li>
+      <h6 class="fw-bold mt-4 mb-3">
+        <i class="fa-solid fa-circle-check check-icon animate"></i>
+        Why Use Biodegradable POF Shrink Film?
+      </h6>
+      <ul class="bio-benefits-list list-unstyled p-0 px-md-3">
+        <li><span class="benefit-no">1.</span><strong> Complies with Government Guidelines</strong> – Under India's Extended Producer Responsibility (EPR) and Plastic Waste Management Rules, shrink films under 50 microns made from biodegradable material are often exempt with certain restrictions. Which makes them legally and environmentally ideal for packaging companies.</li>
 
-                                <li><span class="benefit-no">2.</span><strong> Eco-Friendly and Safe</strong> –   The film decomposes naturally, making it useful for brands committed to sustainability and reducing plastic waste.</li>
+        <li><span class="benefit-no">2.</span><strong> Eco-Friendly and Safe</strong> – The film decomposes naturally, making it useful for brands committed to sustainability and reducing plastic waste.</li>
 
-                                <li><span class="benefit-no">3.</span><strong> High Clarity and Performance</strong> –  Even as a biodegradable product, our POF shrink films retain excellent transparency, seal strength, and shrink properties.</li>
+        <li><span class="benefit-no">3.</span><strong> High Clarity and Performance</strong> – Even as a biodegradable product, our POF shrink films retain excellent transparency, seal strength, and shrink properties.</li>
 
-                                <li><span class="benefit-no">4.</span><strong>  Available in Thin Gauges (12 Micron & Above)</strong> –  Helps you reduce material usage and cost, while still meeting all your packaging needs efficiently.</li>
+        <li><span class="benefit-no">4.</span><strong> Available in Thin Gauges (12 Micron & Above)</strong> – Helps you reduce material usage and cost, while still meeting all your packaging needs efficiently.</li>
 
-                                <li><span class="benefit-no">5.</span><strong> Ideal for Automated Machines</strong> –   Works seamlessly with L-sealers, sleeve wrappers, and shrink tunnels.</li>
-                                </ul>
-                        </div>
-                    </div>
+        <li><span class="benefit-no">5.</span><strong> Ideal for Automated Machines</strong> – Works seamlessly with L-sealers, sleeve wrappers, and shrink tunnels.</li>
+      </ul>
+    </div>
+  </div>
 
-                    <div class="col-12 col-lg-4 image-box mt-4 mt-md-0">
-                        <img src=" images\img19.jpg" alt="Shrink Film Image" />
-                    </div>
-                </div>
+  <!-- Image -->
+  <div class="col-12 col-lg-4 order-1 order-lg-2 text-center">
+    <img src="images/img19.jpg" alt="Shrink Film Image" class="img-fluid rounded w-100" />
+  </div>
+</div>
 
-                <div class="row align-items-center gy-4 px-5 mt-5 overflow-hidden">
+
+                <div class="row align-items-center gy-4 px-0 px-md-5 mt-5 overflow-hidden">
                     <!-- Left Image -->
                     <div class="col-12 col-md-4" data-aos="fade-left">
                         <div class="">
                             <img src="images/img21.jpg" alt="Government ERP Exemption"
-                                class="img-fluid rounded grayscale-hover" />
+                                class="img-fluid rounded grayscale-hover mb-3 1875rem" />
                         </div>
                     </div>
 
@@ -281,36 +286,26 @@ $page_url = basename(__FILE__);
                 </div>
 
 
-                <div class="row align-items-center gy-4 px-5 mt-5 overflow-hidden">
+                <div class="row align-items-center gy-4 px-0 px-md-5 mt-5 overflow-hidden">
                     <div class="col-12 " data-aos="fade-right" data-aos-delay="200">
                         <div class="content-box ps-lg-4">
                             <h5 class="fw-bold mb-3">Who Should Use Biodegradable POF Films?</h5>
                             <p>Our biodegradable POF shrink film is trusted by industries like:</p>
-                            <ul class="choose-list ps-0 list-unstyled">
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i> <strong>Food
-                                        and Beverages</strong></li>
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i>
-                                    <strong>Cosmetics & Personal Care</strong>
-                                </li>
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i>
-                                    <strong>Pharmaceuticals</strong>
-                                </li>
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i>
-                                    <strong>Electronics</strong>
-                                </li>
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i>
-                                    <strong>Stationery & Gift Items</strong>
-                                </li>
-                                <li><i class="fa-solid fa-circle  me-2 animate-ping-icon"></i>
-                                    <strong>Retail Packaging</strong>
-                                </li>
-                            </ul>
+                            <ul class="choose-list ps-0 list-unstyled text-start">
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Food and Beverages</strong></li>
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Cosmetics & Personal Care</strong></li>
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Pharmaceuticals</strong></li>
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Electronics</strong></li>
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Stationery & Gift Items</strong></li>
+  <li><i class="fa-solid fa-circle me-2 animate-ping-icon"></i> <strong>Retail Packaging</strong></li>
+</ul>
+
                         </div>
                     </div>
                 </div>
             </section>
 
-            <div class="row px-5">
+            <div class="row px-0 px-md-5">
                 <div class="col-12">
                     <div class="section-title mt-4">FREQUENTLY ASKED QUESTIONS</div>
 

@@ -8,10 +8,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Regal Woven Blogs | Expert Tips on Packaging and Materials</title>
+    <title>POF Shrink Film & PP Woven Bags | Regal Woven Blog</title>
+    <meta name="description" content="Regal LLP designs premium BOPP laminated handle bags, strong, stylish, and eco-friendly packaging options for retail and industrial use.">
     <meta name="title" content="Contact Us | Regal Woven Sacks- Leading Packaging Solutions">
     <meta name="description"
         content="Regal Woven Sacks Private Limited is the largest supplier and exporter of Polyolefin Shrink Film and BOPP woven bags in India. So contact us or visit our site to know more." />
+
+    <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -53,7 +56,7 @@
                         <h1 class="breadcurmbs-head">Blog
                         </h1>
                         <ul class="breadcrumbs_content_1 ">
-                            <li><a href="/" title="home"> Home </a> /</li>
+                            <li><a href="index.php" title="home"> Home </a> /</li>
                             <li><span>Blog</span></li>
                         </ul>
                     </div>

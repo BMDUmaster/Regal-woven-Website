@@ -10,15 +10,16 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>Printed POF Shrink Films
-
-    </title>
+    <title>REGAL LLP I Manufacturer of Printed POF SHRINK FILM</title>
+    <meta name="description" content="Regal LLP produces BOPP laminated pinch bottom bags, offering durable and stylish packaging with reliable sealing strength.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
 " />
 
     <meta name="keywords"
         content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+
+        <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -44,6 +45,32 @@ $page_url = basename(__FILE__);
 <style>
 body {
     overflow-x: hidden;
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+
+    /* AOS Animation Fixes */
+    [data-aos] {
+        overflow: hidden;
+        will-change: transform;
+    }
+
+    /* Responsive Padding Fixes */
+    @media (max-width: 768px) {
+        .row.px-5 {
+            padding-left: 15px !important;
+            padding-right: 15px !important;
+        }
+
+        /* Disable animations on mobile */
+        [data-aos] {
+            opacity: 1 !important;
+            transform: none !important;
+            transition: none !important;
+        }
+    }
 }
 </style>
 
@@ -76,12 +103,12 @@ body {
     </section>
 
     <section class="pt-5 bg-light-gray">
-        <div class="container-fluid py-5">
+        <div class="container-fluid ">
 
             <!-- Section 1: POF Shrink Films -->
             <div class="row align-items-center gy-4" data-aos="fade-up" data-aos-duration="800">
                 <!-- Left Text -->
-                <div class="col-12 col-lg-6 px-5">
+                <div class="col-12 col-lg-6 px-3 px-md-5">
                     <div class="text-content pe-lg-5 font-z">
                         <h2 class="fw-bold mb-2">Printed POF Shrink Films</h2>
                         <p><strong>What is Printed POF Shrink Film?</strong><br>
@@ -124,7 +151,7 @@ body {
             </div>
 
             <!-- Section 2: Why Choose -->
-            <div class="row align-items-center gy-4 px-5 py-5" data-aos="fade-up" data-aos-duration="800">
+            <div class="row align-items-center gy-4 px-0 px-md-5 py-5" data-aos="fade-up" data-aos-duration="800">
                 <div class="col-lg-4 mb-3" data-aos="zoom-in" data-aos-duration="600">
                     <img src="images/img22.jpg" alt="Roll" class="img-fluid rounded grayscale-hover" />
                 </div>
@@ -153,7 +180,7 @@ body {
             </div>
 
             <!-- Section 3: Customization Options -->
-            <div class="row align-items-center gy-4 px-5 mt-2" data-aos="fade-up" data-aos-duration="800">
+            <div class="row align-items-center gy-4 px-0 px-md-5  mt-2" data-aos="fade-up" data-aos-duration="800">
                 <div class="col-md-7" data-aos="fade-right" data-aos-duration="800">
                     <h6 class="fw-bold mb-3">Applications of Printed POF Shrink Film Ideal for:</h6>
                     <div class="icon-list">
@@ -191,7 +218,7 @@ body {
                 </div>
             </div>
 
-            <div class="row px-5" data-aos="fade-up" data-aos-duration="800">
+            <div class="row px-0 px-md-5" data-aos="fade-up" data-aos-duration="800">
                 <div class="col-12">
                     <div class="section-title mt-4">FREQUENTLY ASKED QUESTIONS</div>
 

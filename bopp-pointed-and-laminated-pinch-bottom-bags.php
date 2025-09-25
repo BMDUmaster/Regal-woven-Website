@@ -10,14 +10,16 @@ $page_url = basename(__FILE__);
 
 <head>
     <meta charset="utf-8">
-    <title>BOPP Pointed and Laminated Pinch bottom Bags
-    </title>
+    <title>REGAL LLP I Manufacturer of BOPP Laminated Pinch Bottom Bags</title>
+    <meta name="description" content="Regal LLP manufactures cross-linked POF shrink films with superior strength, high clarity, and advanced packaging performance.">
     <meta name="title" content="Leading Polyolefin (POF) shrink film manufacturer in India" />
     <meta name="description" content=" Looking for Polyolefin (POF) shrink film rolls and pouches? We offer all microns ( 12,15,19,25,30 and 50) in all sizes, including printed rolls. Get in touch today!!
 " />
 
     <meta name="keywords"
         content="Pof Shrink Film, Buy Pof Shrink Film, Pof 50 micron, Pof 15 micron, Pof 19 micorn, pof shrink film roll" />
+
+        <link rel="canonical" href="https://www.regalwoven.com/" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -37,422 +39,12 @@ $page_url = basename(__FILE__);
     <link rel="stylesheet" href="Newstyle.css" media="all">
     <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
 
-
-    <?php include 'includes/above-head.php' ?>
-</head>
-
-<body>
-
-    <!-- perload section -->
-    <div id="preloader">
-        <div id="preloader-inner"></div>
-    </div>
-    <!-- header section -->
-    <?php include 'includes/header.php' ?>
-
-    <!-- breadcrumbs -->
-    <section class="mobex-section r-breadcurmbs-2 m-secondary-bg" data-aos="fade-down" data-aos-duration="800">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="wrap_breadcrumbs_1">
-                        <h1 class="breadcurmbs-head">BOPP Laminated Pinch Bottom Bags
-                        </h1>
-                        <ul class="breadcrumbs_content_1 ">
-                            <li><a href="index.php" title="home"> Home </a> /</li>
-                            <li><span>BOPP Laminated Pinch Bottom Bags</span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="pt-5 bg-light-gray">
-        <div class="container p-0">
-            <div class="row g-4 ">
-                <!-- Left Column -->
-                <div class="col-lg-6" data-aos="fade-right" data-aos-duration="800">
-                    <div class="custom-card w-100 d-flex">
-                        <div class="">
-                            <!-- <h2 class="fw-bold mb-2 display-5 fw-bold">BOPP Laminated Pinch Bottom Bags</h2> -->
-                            <!-- <h6 class="text-muted mb-2">Suitable for:</h6> -->
-                            <p class= "para">
-                                We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
-                                and BOPP Laminated PP Woven Bags. Our expansive manufacturing facility spans an
-                                impressive 8000 square meters, a
-                                testament to our commitment to excellence and innovation in packaging solutions. With
-                                cutting-edge technology and a dedicated workforce, we have the capacity to produce an
-                                astounding 150,000 bags per day,
-                                ensuring uninterrupted supply and timely delivery to meet our clients' needs. At Regal
-                                Woven Sacks, we're not just meeting industry standards; we're setting new benchmarks for
-                                quality and efficiency in the
-                                packaging sector.
-                            </p>
-                        </div>
-                        <div class=" d-flex justify-content-start">
-                            <button type="button" class="btn btn-enquiry text-end" data-bs-toggle="modal"
-                                data-bs-target="#enquiryModal" data-aos="zoom-in" data-aos-delay="300">
-                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Right side image -->
-                <div class="col-lg-6" data-aos="fade-left" data-aos-duration="800">
-                    <img src="gallery\img12.jpg" alt="POF Shrink Film" class="custom-image">
-                </div>
-            </div>
-            <!--  Send Enquiry open Modal -->
-            <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel"
-                aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered">
-                    <div class="modal-content rounded-4 shadow">
-                        <div class="modal-header text-white" style="background-color:#312f92">
-                            <h5 class="modal-title" id="enquiryModalLabel">Send Enquiry</h5>
-                            <!-- Custom Close Button (SVG X icon) -->
-                            <button type="button" class="btn border-0 bg-transparent p-0 ms-auto"
-                                data-bs-dismiss="modal" aria-label="Close">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white"
-                                    viewBox="0 0 24 24">
-                                    <path d="M18 6L6 18M6 6l12 12" stroke="white" stroke-width="2"
-                                        stroke-linecap="round" stroke-linejoin="round" />
-                                </svg>
-                            </button>
-
-                        </div>
-
-                        <div class="modal-body">
-                            <form id="enquiryForm">
-                                <div class="mb-3">
-                                    <label for="name" class="form-label">Name<span class="text-danger">*</span></label>
-                                    <input type="text" class="form-control" id="name" placeholder="Enter your name"
-                                        required />
-                                </div>
-
-                                <div class="mb-3">
-                                    <label for="contact" class="form-label">Mobile No.<span
-                                            class="text-danger">*</span></label>
-                                    <input type="tel" class="form-control" id="contact"
-                                        placeholder="Enter contact number" required />
-                                </div>
-
-                                <div class="mb-3">
-                                    <label for="email" class="form-label">Email<span
-                                            class="text-danger">*</span></label>
-                                    <input type="email" class="form-control" id="email"
-                                        placeholder="Enter email address" required />
-                                </div>
-
-                                <div class="mb-3">
-                                    <label for="message" class="form-label">Message<span
-                                            class="text-danger">*</span></label>
-                                    <textarea class="form-control" id="message" rows="2"
-                                        placeholder="Enter your message" required></textarea>
-                                </div>
-
-                                <div class="modal-footer justify-content-between">
-                                    <!-- <button type="button" class="btn btn-secondary"
-                                        data-bs-dismiss="modal">Close</button> -->
-                                    <button type="submit" class="btn btn-enquiry">Submit Enquiry</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <section class=" bg-white ">
-                <div class="container p-0">
-                    
-                        <div class="">   
-                            <div>
-                                <h4 class="mb-4" data-aos="fade-up" data-aos-duration="700"><strong> BOPP Laminated Pinch Bottom Bags</strong></h4>
-                                <p class="section-title mt-4" data-aos="fade-up" data-aos-duration="600"></p>
-                                <P data-aos="fade-up" data-aos-duration="800">We are of the few manufactureres of Pinch Bottom Bags in
-                                    India. A new concept Introduced in indian market, Pinch Bottom Bags are made of BOPP laminated PP Woven Fade Material.</P>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-center">
-                                   <iframe width="800" height="500" src="gallery/Wovenbags.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-                                </div> 
-                            </div>
-                        </div>
-
-                    <div class=" ">
-                        <div class="tab-cards" data-aos="fade-up" data-aos-duration="900">
-                            <!-- Tab Headers -->
-                            <ul class="nav nav-tabs tab-header justify-content-start flex-wrap p-2" id="myTab"
-                                role="tablist">
-                                <li class="col-md-4 col-12 nav-item pr-1" role="presentation">
-                                    <button class="nav-link active py-3" id="benefits-tab" data-bs-toggle="tab"
-                                        data-bs-target="#benefits" type="button" role="tab">
-                                        Benefits & Details
-                                    </button>
-                                </li>
-                                <li class="col-md-4 col-12 nav-item pr-1" role="presentation">
-                                    <button class="nav-link py-3" id="types-tab" data-bs-toggle="tab"
-                                        data-bs-target="#types" type="button" role="tab">
-                                        Speciality
-                                    </button>
-                                </li>
-                                <li class="col-md-4 col-12 nav-item " role="presentation">
-                                    <button class="nav-link py-3" id="speciality-tab" data-bs-toggle="tab"
-                                        data-bs-target="#speciality" type="button" role="tab">
-                                         SPECIALIZATION
-                                    </button>
-                                </li>
-                            </ul>
-
-                            <!-- Tab Content -->
-                            <div class="tab-content" id="myTabContent">
-                                <div class="tab-pane fade show active" id="benefits" role="tabpanel">
-                                    <!-- <h3>Benefits:</h3> -->
-                                    <ul class="benefit-list">
-                                        <li><strong>1. High Strength & Durability</strong></li>
-                                        <li>Made from woven PP fabric for tear resistance, strength, and reusability.
-                                        </li>
-                                        <li><strong>2. Premium Look </strong></li>
-                                        <li> BOPP lamination allows high-quality photographic printing design , making it ideal for branded packaging.</li>
-                                        <li> <strong>3. Moisture & Dust Protection </strong></li>
-                                        <li> Lamination creates a strong barrier against moisture, helping to extend shelf life.</li>
-                                        <li> <strong>4. Pinch Bottom Advantage</strong></li>
-                                        <li> Offers strong, stable sealing that prevents leakage and maintains a neat, block-like shape—ideal for stacking.</li>
-                                        <li><strong> 5. Eco-Friendly & Recyclable </strong></li>
-                                        <li>Reusable and recyclable, making it a sustainable packaging choice.</li>
-                                        <li><strong> 6.Customizable </strong></li>
-                                        <li>Available in many sizes, colors, gusset types, and print designs.</li>
-                                        <li><strong>7. Enhanced Shelf Appeal </strong></li>
-                                        <li>The pointed bottom gives a distinctive look, helping your product stand out in retail environments.</li>
-                                    </ul>
-                                </div>
-
-                                <div class="tab-pane fade" id="types" role="tabpanel">
-                                    <!-- <h3>Speciality by Regal Woven Sacks LLP:</h3> -->
-                                    <div>
-                                            <h4> Speciality by Regal Woven Sacks LLP:</h4>
-                                        <p>
-                                            At Regal Woven Sacks LLP, we deliver more than just bags—we deliver confidence in packaging:
-                                            State-of-the-Art Machinery: We utilize high-speed BOPP lamination lines, rotogravure printing presses, and automated sealing machines for precise and consistent quality.
-                                            Premium Raw Materials: Sourced from top global suppliers like RELIANCE and DOW, ensuring unmatched strength and finish.
-                                            In-House Design & R&D Team: We help our clients design custom artwork and optimize packaging structure to suit product needs.
-                                            Flexible MOQ and Fast Turnaround: Whether you're a startup or an established brand, we offer scalable solutions with short lead times.
-                                            Strict Quality Control: Every bag is tested for seal strength, print quality, lamination bond, and load-bearing capacity before dispatch.
-                                            Sustainability Driven: We recycle 100% of our production waste and follow eco-conscious manufacturing practices.</p>
-                                        </div>
-                                </div>
-
-                                <div class="tab-pane fade" id="speciality" role="tabpanel">
-                                    <!-- <h3>Specialization</h3> -->
-                                    <div class="specialization-container">
-                                        
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Front width</div>
-                                            <div class="spec-value">165 mm – 480 mm</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Gusset width</div>
-                                            <div class="spec-value">50 mm – 200 mm</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Bag length</div>
-                                            <div class="spec-value">500 mm – 1070 mm</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Fabric colour</div>
-                                            <div class="spec-value">As per customer requirement</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Fabric denier</div>
-                                            <div class="spec-value">760 – 1065</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">BOPP Material</div>
-                                            <div class="spec-value">Gloss, Gloss Metalized, Gloss Holographic, Matt,
-                                                Matt Metalized, Matt Gloss Combo and High COF Gloss/Matt</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">BOPP Micron</div>
-                                            <div class="spec-value">18 µ</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Extrusion Coating</div>
-                                            <div class="spec-value">Full</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">EZ Open With Pinch Seal</div>
-                                            <div class="spec-value">Yes</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">EZ Open Label Width 100</div>
-                                            <div class="spec-value">100 – 460</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">EZ Open Label Length</div>
-                                            <div class="spec-value">40 – 80</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Open Mouth Type</div>
-                                            <div class="spec-value">Pinch Cut, Flush Cut</div>
-                                        </div>
-
-                                        <div class="spec-item">
-                                            <div class="spec-name">Type Of Packing</div>
-                                            <div class="spec-value">Bales / Pallet</div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="section-title mt-4" data-aos="fade-up" data-aos-duration="600">FREQUENTLY ASKED
-                        QUESTIONS</div>
-
-                    <div class="accordion" id="faqAccordion" data-aos="fade-up" data-aos-duration="700">
-                        
-                        <!-- Item 1 -->
-                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
-                    <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        <i class="fa-solid fa-box fa-icon"></i>
-                        What are BOPP Laminated Pinch Bottom Bags used for?
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                        data-bs-parent="#faqAccordion">
-                        <div class="accordion-body">
-                        These bags are widely used in industries like flour, rice, sugar, pet food, fertilizers, and
-                        chemicals. The pinch bottom closure makes them leak-proof, easy to stack, and ideal for retail
-                        as well as bulk packaging.
-                        </div>
-                    </div>
-                    </div>
-
-                        <!-- Item 2 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
-                        <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <i class="fa-solid fa-cogs fa-icon"></i>
-                            What makes the Pinch Bottom design special?
-                            </button>
-                        </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                            data-bs-parent="#faqAccordion">
-                            <div class="accordion-body">
-                            The pinch bottom design ensures strong sealing, prevents leakage, and provides a neat
-                            block-shaped finish. This makes the bags easier to handle, transport, and display while
-                            maintaining product freshness and safety.
-                            </div>
-                        </div>
-                        </div>
-
-                        <!-- Item 3 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
-                        <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <i class="fa-solid fa-leaf fa-icon"></i>
-                            Are BOPP Pinch Bottom Bags eco-friendly?
-                            </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                            data-bs-parent="#faqAccordion">
-                            <div class="accordion-body">
-                            Yes, these bags are recyclable and manufactured using eco-conscious processes. Their durability
-                            and reusability also reduce packaging waste, making them a sustainable alternative to
-                            traditional packaging.
-                            </div>
-                        </div>
-                        </div>
-
-                        <!-- Item 4 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
-                        <h2 class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <i class="fa-solid fa-paint-brush fa-icon"></i>
-                            Can these bags be customized for branding?
-                            </button>
-                        </h2>
-                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                            data-bs-parent="#faqAccordion">
-                            <div class="accordion-body">
-                            Yes, BOPP Pinch Bottom Bags can be customized with high-quality multi-color printing, glossy or
-                            matte finishes, transparent windows, and different sizes. This makes them perfect for strong
-                            brand visibility in competitive markets.
-                            </div>
-                        </div>
-                        </div>
-
-                        <!-- Item 5 -->
-                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
-                        <h2 class="accordion-header" id="headingFive">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <i class="fa-solid fa-industry fa-icon"></i>
-                            Why choose Regal Woven Sacks LLP for Pinch Bottom Bags?
-                            </button>
-                        </h2>
-                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                            data-bs-parent="#faqAccordion">
-                            <div class="accordion-body">
-                            Regal offers advanced in-house manufacturing, premium raw materials, strict quality checks,
-                            and state-of-the-art printing technology. Our BOPP Pinch Bottom Bags are durable, attractive,
-                            and tailored to meet international packaging standards.
-                            </div>
-                        </div>
-                        </div>
-
-                    </div>
-                </div>
-
-        </div>
-
-        <div class="container-fluid overflow-hidden">
-            <div class="row">
-                <div class=" col-12 px-0">
-
-                    <div class=" d-flex flex-column flex-md-row justify-content-around align-items-center py-5 mt-4 w-100 rounded"
-                        style="background-color: #312f92e8;">
-                        <h4 class="mb-3 mb-md-0 fw-bold text-white text-center text-md-start" data-aos="fade-right">
-                            Curious to explore how our packaging solutions fit your business needs?
-                        </h4>
-                        <div class="d-flex justify-content-end" data-aos="fade-left">
-                            <button type="button" class="btn btn-enquirys text-end" data-bs-toggle="modal"
-                                data-bs-target="#enquiryModal">
-                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
     <style>
         @media (max-width: 768px) {
   /* Full width fix */
   .container, .container-fluid {
     max-width: 100% !important;
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    
   }
 
   /* Remove row negative margins */
@@ -672,6 +264,416 @@ $page_url = basename(__FILE__);
         font-size: 0.95rem;
     }
     </style>
+
+
+    <?php include 'includes/above-head.php' ?>
+</head>
+
+<body>
+
+    <!-- perload section -->
+    <div id="preloader">
+        <div id="preloader-inner"></div>
+    </div>
+    <!-- header section -->
+    <?php include 'includes/header.php' ?>
+
+    <!-- breadcrumbs -->
+    <section class="mobex-section r-breadcurmbs-2 m-secondary-bg" data-aos="fade-down" data-aos-duration="800">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="wrap_breadcrumbs_1">
+                        <h1 class="breadcurmbs-head">BOPP Laminated Pinch Bottom Bags
+                        </h1>
+                        <ul class="breadcrumbs_content_1 ">
+                            <li><a href="index.php" title="home"> Home </a> /</li>
+                            <li><span>BOPP Laminated Pinch Bottom Bags</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pt-5 bg-light-gray">
+        <div class="container p-0">
+            <div class="row g-4 ">
+                <!-- Left Column -->
+                <div class="col-lg-6" data-aos="fade-right" data-aos-duration="800">
+                    <div class="custom-card w-100 d-flex">
+                        <div class="">
+                            <!-- <h2 class="fw-bold mb-2 display-5 fw-bold">BOPP Laminated Pinch Bottom Bags</h2> -->
+                            <!-- <h6 class="text-muted mb-2">Suitable for:</h6> -->
+                            <p class= "para px-md-0 px-3">
+                                We proudly stand as one of India's premier manufacturers and exporters of PP Woven Sacks
+                                and BOPP Laminated PP Woven Bags. Our expansive manufacturing facility spans an
+                                impressive 8000 square meters, a
+                                testament to our commitment to excellence and innovation in packaging solutions. With
+                                cutting-edge technology and a dedicated workforce, we have the capacity to produce an
+                                astounding 150,000 bags per day,
+                                ensuring uninterrupted supply and timely delivery to meet our clients' needs. At Regal
+                                Woven Sacks, we're not just meeting industry standards; we're setting new benchmarks for
+                                quality and efficiency in the
+                                packaging sector.
+                            </p>
+                        </div>
+                        <div class=" d-flex justify-content-start pl-3 mb-3">
+                            <button type="button" class="btn btn-enquiry text-end" data-bs-toggle="modal"
+                                data-bs-target="#enquiryModal" data-aos="zoom-in" data-aos-delay="300">
+                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right side image -->
+                <div class="col-lg-6" data-aos="fade-left" data-aos-duration="800">
+                    <img src="gallery\img12.jpg" alt="POF Shrink Film" class="custom-image px-md-0 px-3">
+                </div>
+            </div>
+            <!--  Send Enquiry open Modal -->
+            <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content rounded-4 shadow">
+                        <div class="modal-header text-white" style="background-color:#312f92">
+                            <h5 class="modal-title" id="enquiryModalLabel">Send Enquiry</h5>
+                            <!-- Custom Close Button (SVG X icon) -->
+                            <button type="button" class="btn border-0 bg-transparent p-0 ms-auto"
+                                data-bs-dismiss="modal" aria-label="Close">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white"
+                                    viewBox="0 0 24 24">
+                                    <path d="M18 6L6 18M6 6l12 12" stroke="white" stroke-width="2"
+                                        stroke-linecap="round" stroke-linejoin="round" />
+                                </svg>
+                            </button>
+
+                        </div>
+
+                        <div class="modal-body">
+                            <form id="enquiryForm">
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">Name<span class="text-danger">*</span></label>
+                                    <input type="text" class="form-control" id="name" placeholder="Enter your name"
+                                        required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="contact" class="form-label">Mobile No.<span
+                                            class="text-danger">*</span></label>
+                                    <input type="tel" class="form-control" id="contact"
+                                        placeholder="Enter contact number" required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="email" class="form-label">Email<span
+                                            class="text-danger">*</span></label>
+                                    <input type="email" class="form-control" id="email"
+                                        placeholder="Enter email address" required />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label for="message" class="form-label">Message<span
+                                            class="text-danger">*</span></label>
+                                    <textarea class="form-control" id="message" rows="2"
+                                        placeholder="Enter your message" required></textarea>
+                                </div>
+
+                                <div class="modal-footer justify-content-between">
+                                    <!-- <button type="button" class="btn btn-secondary"
+                                        data-bs-dismiss="modal">Close</button> -->
+                                    <button type="submit" class="btn btn-enquiry">Submit Enquiry</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <section class=" bg-white ">
+                <div class="container p-0">
+                    
+                        <div class="">   
+                            <div>
+                                <h4 class="mb-4 px-md-0 px-3 mt-md-0 mt-3" data-aos="fade-up" data-aos-duration="700"><strong> BOPP Laminated Pinch Bottom Bags</strong></h4>
+                                <P data-aos="fade-up" data-aos-duration="800" class="px-md-0 px-3">We are of the few manufactureres of Pinch Bottom Bags in
+                                    India. A new concept Introduced in indian market, Pinch Bottom Bags are made of BOPP laminated PP Woven Fade Material.</P>
+                            </div>
+                            <div>
+                                <div class="d-flex justify-content-center">
+                                   <iframe width="800" height="500" src="gallery/Wovenbags.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+                                </div> 
+                            </div>
+                        </div>
+
+                    <div class=" ">
+                        <div class="tab-cards" data-aos="fade-up" data-aos-duration="900">
+                            <!-- Tab Headers -->
+                            <ul class="nav nav-tabs tab-header justify-content-start flex-wrap p-2" id="myTab"
+                                role="tablist">
+                                <li class="col-md-4 col-12 nav-item pr-1" role="presentation">
+                                    <button class="nav-link active py-3" id="benefits-tab" data-bs-toggle="tab"
+                                        data-bs-target="#benefits" type="button" role="tab">
+                                        Benefits & Details
+                                    </button>
+                                </li>
+                                <li class="col-md-4 col-12 nav-item pr-1" role="presentation">
+                                    <button class="nav-link py-3" id="types-tab" data-bs-toggle="tab"
+                                        data-bs-target="#types" type="button" role="tab">
+                                        Speciality
+                                    </button>
+                                </li>
+                                <li class="col-md-4 col-12 nav-item " role="presentation">
+                                    <button class="nav-link py-3" id="speciality-tab" data-bs-toggle="tab"
+                                        data-bs-target="#speciality" type="button" role="tab">
+                                         SPECIALIZATION
+                                    </button>
+                                </li>
+                            </ul>
+
+                            <!-- Tab Content -->
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="benefits" role="tabpanel">
+                                    <!-- <h3>Benefits:</h3> -->
+                                    <ul class="benefit-list">
+                                        <li><strong>1. High Strength & Durability</strong></li>
+                                        <li>Made from woven PP fabric for tear resistance, strength, and reusability.
+                                        </li>
+                                        <li><strong>2. Premium Look </strong></li>
+                                        <li> BOPP lamination allows high-quality photographic printing design , making it ideal for branded packaging.</li>
+                                        <li> <strong>3. Moisture & Dust Protection </strong></li>
+                                        <li> Lamination creates a strong barrier against moisture, helping to extend shelf life.</li>
+                                        <li> <strong>4. Pinch Bottom Advantage</strong></li>
+                                        <li> Offers strong, stable sealing that prevents leakage and maintains a neat, block-like shape—ideal for stacking.</li>
+                                        <li><strong> 5. Eco-Friendly & Recyclable </strong></li>
+                                        <li>Reusable and recyclable, making it a sustainable packaging choice.</li>
+                                        <li><strong> 6.Customizable </strong></li>
+                                        <li>Available in many sizes, colors, gusset types, and print designs.</li>
+                                        <li><strong>7. Enhanced Shelf Appeal </strong></li>
+                                        <li>The pointed bottom gives a distinctive look, helping your product stand out in retail environments.</li>
+                                    </ul>
+                                </div>
+
+                                <div class="tab-pane fade" id="types" role="tabpanel">
+                                    <!-- <h3>Speciality by Regal Woven Sacks LLP:</h3> -->
+                                    <div>
+                                            <h4 class="px-md-0 px-3"> Speciality by Regal Woven Sacks LLP:</h4>
+                                        <p class="px-md-0 px-3"> 
+                                            At Regal Woven Sacks LLP, we deliver more than just bags—we deliver confidence in packaging:
+                                            State-of-the-Art Machinery: We utilize high-speed BOPP lamination lines, rotogravure printing presses, and automated sealing machines for precise and consistent quality.
+                                            Premium Raw Materials: Sourced from top global suppliers like RELIANCE and DOW, ensuring unmatched strength and finish.
+                                            In-House Design & R&D Team: We help our clients design custom artwork and optimize packaging structure to suit product needs.
+                                            Flexible MOQ and Fast Turnaround: Whether you're a startup or an established brand, we offer scalable solutions with short lead times.
+                                            Strict Quality Control: Every bag is tested for seal strength, print quality, lamination bond, and load-bearing capacity before dispatch.
+                                            Sustainability Driven: We recycle 100% of our production waste and follow eco-conscious manufacturing practices.</p>
+                                        </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="speciality" role="tabpanel">
+                                    <!-- <h3>Specialization</h3> -->
+                                    <div class="specialization-container">
+                                        
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Front width</div>
+                                            <div class="spec-value">165 mm – 480 mm</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Gusset width</div>
+                                            <div class="spec-value">50 mm – 200 mm</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Bag length</div>
+                                            <div class="spec-value">500 mm – 1070 mm</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Fabric colour</div>
+                                            <div class="spec-value">As per customer requirement</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Fabric denier</div>
+                                            <div class="spec-value">760 – 1065</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">BOPP Material</div>
+                                            <div class="spec-value">Gloss, Gloss Metalized, Gloss Holographic, Matt,
+                                                Matt Metalized, Matt Gloss Combo and High COF Gloss/Matt</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">BOPP Micron</div>
+                                            <div class="spec-value">18 µ</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Extrusion Coating</div>
+                                            <div class="spec-value">Full</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">EZ Open With Pinch Seal</div>
+                                            <div class="spec-value">Yes</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">EZ Open Label Width 100</div>
+                                            <div class="spec-value">100 – 460</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">EZ Open Label Length</div>
+                                            <div class="spec-value">40 – 80</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Open Mouth Type</div>
+                                            <div class="spec-value">Pinch Cut, Flush Cut</div>
+                                        </div>
+
+                                        <div class="spec-item">
+                                            <div class="spec-name">Type Of Packing</div>
+                                            <div class="spec-value">Bales / Pallet</div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="section-title mt-4" data-aos="fade-up" data-aos-duration="600">FREQUENTLY ASKED
+                        QUESTIONS</div>
+
+                    <div class="accordion" id="faqAccordion" data-aos="fade-up" data-aos-duration="700">
+                        
+                        <!-- Item 1 -->
+                    <div class="accordion-item" data-aos="fade-up" data-aos-delay="100">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <i class="fa-solid fa-box fa-icon"></i>
+                        What are BOPP Laminated Pinch Bottom Bags used for?
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                        data-bs-parent="#faqAccordion">
+                        <div class="accordion-body">
+                        These bags are widely used in industries like flour, rice, sugar, pet food, fertilizers, and
+                        chemicals. The pinch bottom closure makes them leak-proof, easy to stack, and ideal for retail
+                        as well as bulk packaging.
+                        </div>
+                    </div>
+                    </div>
+
+                        <!-- Item 2 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <i class="fa-solid fa-cogs fa-icon"></i>
+                            What makes the Pinch Bottom design special?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            The pinch bottom design ensures strong sealing, prevents leakage, and provides a neat
+                            block-shaped finish. This makes the bags easier to handle, transport, and display while
+                            maintaining product freshness and safety.
+                            </div>
+                        </div>
+                        </div>
+
+                        <!-- Item 3 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <i class="fa-solid fa-leaf fa-icon"></i>
+                            Are BOPP Pinch Bottom Bags eco-friendly?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Yes, these bags are recyclable and manufactured using eco-conscious processes. Their durability
+                            and reusability also reduce packaging waste, making them a sustainable alternative to
+                            traditional packaging.
+                            </div>
+                        </div>
+                        </div>
+
+                        <!-- Item 4 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                        <h2 class="accordion-header" id="headingFour">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            <i class="fa-solid fa-paint-brush fa-icon"></i>
+                            Can these bags be customized for branding?
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Yes, BOPP Pinch Bottom Bags can be customized with high-quality multi-color printing, glossy or
+                            matte finishes, transparent windows, and different sizes. This makes them perfect for strong
+                            brand visibility in competitive markets.
+                            </div>
+                        </div>
+                        </div>
+
+                        <!-- Item 5 -->
+                        <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            <i class="fa-solid fa-industry fa-icon"></i>
+                            Why choose Regal Woven Sacks LLP for Pinch Bottom Bags?
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                            data-bs-parent="#faqAccordion">
+                            <div class="accordion-body">
+                            Regal offers advanced in-house manufacturing, premium raw materials, strict quality checks,
+                            and state-of-the-art printing technology. Our BOPP Pinch Bottom Bags are durable, attractive,
+                            and tailored to meet international packaging standards.
+                            </div>
+                        </div>
+                        </div>
+
+                    </div>
+                </div>
+
+        </div>
+
+        <div class="container-fluid overflow-hidden">
+            <div class="row">
+                <div class=" col-12 px-0">
+
+                    <div class=" d-flex flex-column flex-md-row justify-content-around align-items-center py-5 mt-4 w-100 rounded"
+                        style="background-color: #312f92e8;">
+                        <h4 class="mb-3 mb-md-0 fw-bold text-white text-center text-md-start" data-aos="fade-right">
+                            Curious to explore how our packaging solutions fit your business needs?
+                        </h4>
+                        <div class="d-flex justify-content-end" data-aos="fade-left">
+                            <button type="button" class="btn btn-enquirys text-end" data-bs-toggle="modal"
+                                data-bs-target="#enquiryModal">
+                                Send Enquiry <i class="fa-solid fa-arrow-right ms-2"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    
 
     <?php include 'includes/footer.php' ?>
 
