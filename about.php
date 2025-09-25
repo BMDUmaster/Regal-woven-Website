@@ -15,7 +15,7 @@
     <meta name="description"
         content="Learn about Regal Woven Sacks, a top provider of high-quality packaging solutions. Discover our expertise in POF shrink film and PP woven bags, and our commitment to excellence in every product." />
    
-
+    <link rel="shortcut icon" href="images/logo1 favicon.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Bootstrap Icons -->

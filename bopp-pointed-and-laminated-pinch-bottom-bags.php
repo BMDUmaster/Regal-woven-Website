@@ -38,7 +38,7 @@ $page_url = basename(__FILE__);
 
     <link rel="stylesheet" href="Newstyle.css" media="all">
     <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
-
+<link rel="shortcut icon" href="images/logo1 favicon.png" type="image/x-icon">
     <style>
         @media (max-width: 768px) {
   /* Full width fix */

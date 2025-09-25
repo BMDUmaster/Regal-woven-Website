@@ -28,6 +28,7 @@ $page_url = basename(__FILE__);
     <!-- Font Awesome (use only one version to avoid conflicts) -->
     <!-- Recommended: Font Awesome 6.5.0 -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="images/logo1 favicon.png" type="image/x-icon">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css\styles.css" media="all">

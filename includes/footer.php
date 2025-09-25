@@ -137,15 +137,13 @@
         <div class="row copywright_row">
             <div class="col-lg-7 col-md-7 col-12 ">
                 <p class="copywright">
-  © Copyrights 2024, RegalWoven.com, All rights reserved.
-  | <a href="/privacy-policy.php" target="_blank">Privacy Policy</a>
-  
-</p>
+                   © Copyrights 2024, RegalWoven.com, All rights reserved. <a href="/regal-woven-website/privacy-policy.php" >Privacy Policy</a>
+                </p>
 
             </div>
             <div class="col-5 col-md-5 col-12">
                 <ul class="privacy_list head-title">
-                    <p class="copywright"> Designed by <a href="https://digitalutilization.com/"
+                    <p class="copywright"> Designed by <a href="https://digitalutilization.com/" target="blank"
                             style="color:#fff;">BMDU</a>
 
                     </p>

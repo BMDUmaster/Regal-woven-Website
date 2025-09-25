@@ -36,7 +36,7 @@
 
     <link rel="stylesheet" href="Newstyle.css" media="all">
     <!-- <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /> -->
-
+<link rel="shortcut icon" href="images/logo1 favicon.png" type="image/x-icon">
 
     <?php include 'includes/above-head.php' ?>
 </head>

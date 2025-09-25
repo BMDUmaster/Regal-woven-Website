@@ -29,7 +29,7 @@ $page_url = basename(__FILE__);
     <link rel="stylesheet" href="css/styles.css" media="all">
     <link rel="stylesheet" href="css/responsives.css" media="all">
     <link rel="stylesheet" href="Newstyle.css" media="all">
-
+<link rel="shortcut icon" href="images/logo1 favicon.png" type="image/x-icon">
     <style>
     /* Global Overflow Fixes */
     html,
