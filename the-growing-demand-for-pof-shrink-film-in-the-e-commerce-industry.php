@@ -52,7 +52,6 @@
                         <h1 class="display-4 fw-bold">Advanced Robotics Revolutionizing<br>Industrial Workflows</h1>
                         <div class="meta-info mt-3">
                             <span><i class="bi bi-calendar-event"></i> November 25, 2024</span>
-                            <span><i class="bi bi-tag-fill"></i> Uncategorized</span>
                         </div>
                     </div>
                 </div>
@@ -231,35 +230,7 @@
                <!-- end -->
               
             </div>
-            <form class="comment-form">
-                        <div class="mb-3">
-                            <label for="comment" class="form-label">Comment *</label>
-                            <textarea class="form-control" id="comment" rows="5" required></textarea>
-                        </div>
-
-                        <div class="row g-3">
-                            <div class="col-md-4">
-                                <label for="name" class="form-label">Name *</label>
-                                <input type="text" class="form-control" id="name" required>
-                            </div>
-                            <div class="col-md-4">
-                                <label for="email" class="form-label">Email *</label>
-                                <input type="email" class="form-control" id="email" required>
-                            </div>
-                            <div class="col-md-4">
-                                <label for="website" class="form-label">Website</label>
-                                <input type="url" class="form-control" id="website">
-                            </div>
-                        </div>
-                        <div class="form-check mt-3">
-                            <input class="form-check-input" type="checkbox" id="save-info">
-                            <label class="form-check-label text-muted" for="save-info">
-                                Save my name, email, and website in this browser for the next time I comment.
-                            </label>
-                        </div>
-
-                        <button type="submit" class="tag-btn mt-3">Post Comment</button>
-                    </form> 
+            
          </div>
 
          <style>
